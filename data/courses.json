@@ -15,7 +15,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Develop a fundamental understanding of the key concepts of computer science in a variety of contexts. Audience: Undergraduate 2. Create art, music, stories, games and other programs in a visual, introductory programming language Audience: Undergraduate 3. Understand how computers use algorithms to solve problems and act in intelligent ways. Audience: Undergraduate 4. Understand how computers utilize large sets of data to provide insight and knowledge. Audience: Undergraduate 5. Learn how software and hardware make modern computers work Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Develop a fundamental understanding of the key concepts of computer science in a variety of contexts.",
+        "2. Create art, music, stories, games and other programs in a visual, introductory programming language",
+        "3. Understand how computers use algorithms to solve problems and act in intelligent ways.",
+        "4. Understand how computers utilize large sets of data to provide insight and knowledge.",
+        "5. Learn how software and hardware make modern computers work"
+      ]
     }
   },
   {
@@ -34,7 +40,16 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Design and implement a standalone program that can interact with the user via prompts and or menus, access and edit data stored in an array or list structure, and use and further process the data found in those structures. Audience: Undergraduate 2. Trace code to determine output or results. Audience: Undergraduate 3. Implement a given program design and choose correct control structures for implementing algorithms expressed in pseudocode. Audience: Undergraduate 4. Interpret a variety of diagram types used to express programming concepts and results: truth tables, memory model diagrams, control flow charts (activity diagrams), class diagrams, object diagrams, and use-case diagrams. Audience: Undergraduate 5. List, describe, use the basic I/O operations for reading and writing text files to and from the computer’s hard drive. Audience: Undergraduate 6. Manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information. Audience: Undergraduate 7. Evaluate models and arguments using quantitative information. Audience: Undergraduate 8. Express and interpret in context models, solutions and/or arguments using verbal, numerical, graphical algorithmic, computational or symbolic techniques. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Design and implement a standalone program that can interact with the user via prompts and or menus, access and edit data stored in an array or list structure, and use and further process the data found in those structures.",
+        "2. Trace code to determine output or results.",
+        "3. Implement a given program design and choose correct control structures for implementing algorithms expressed in pseudocode.",
+        "4. Interpret a variety of diagram types used to express programming concepts and results: truth tables, memory model diagrams, control flow charts (activity diagrams), class diagrams, object diagrams, and use-case diagrams.",
+        "5. List, describe, use the basic I/O operations for reading and writing text files to and from the computer’s hard drive.",
+        "6. Manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information.",
+        "7. Evaluate models and arguments using quantitative information.",
+        "8. Express and interpret in context models, solutions and/or arguments using verbal, numerical, graphical algorithmic, computational or symbolic techniques."
+      ]
     }
   },
   {
@@ -53,7 +68,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems Audience: Undergraduate 2. Demonstrate competencies with tools and processes necessary for data management and reproducibility Audience: Undergraduate 3. Produce meaning from data employing modeling strategies Audience: Undergraduate 4. Demonstrate critical thinking related to data science concepts and methods Audience: Undergraduate 5. Demonstrate oral, written and visual communication skills related to data science Audience: Undergraduate 6. Manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems",
+        "2. Demonstrate competencies with tools and processes necessary for data management and reproducibility",
+        "3. Produce meaning from data employing modeling strategies",
+        "4. Demonstrate critical thinking related to data science concepts and methods",
+        "5. Demonstrate oral, written and visual communication skills related to data science",
+        "6. Manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information"
+      ]
     }
   },
   {
@@ -69,7 +91,11 @@
       },
       "Repeatable for Credit": "Yes, unlimited number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Utilize basic computing tools. Audience: Undergraduate 2. Identify and explain fundamental computational concepts. Audience: Undergraduate 3. Apply computational thinking to solve problems. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Utilize basic computing tools.",
+        "2. Identify and explain fundamental computational concepts.",
+        "3. Apply computational thinking to solve problems."
+      ]
     }
   },
   {
@@ -87,7 +113,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Demonstrate proficiency with basic skills for constructing and evaluating mathematically rigorous arguments and proofs. Audience: Undergraduate 2. Construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, program correctness). Audience: Undergraduate 3. Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees). Audience: Undergraduate 4. Employ basic program analysis techniques to evaluate behavior of functions and simple algorithms such as assessing correctness and termination of simple algorithms, constructing recurrences, solving simple recurrences, and applying asymptotic analysis. Audience: Undergraduate 5. Apply basic combinatoric techniques to counting problems. Audience: Undergraduate 6. Demonstrate the connections between a description of a simple language and a finite state machine or regular expression. Given a finite state machine or regular expression, determine the language it defines and/or whether a given string is recognized by it. Given a simple language, construct a finite state machine or regular expression that recognizes it. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Demonstrate proficiency with basic skills for constructing and evaluating mathematically rigorous arguments and proofs.",
+        "2. Construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, program correctness).",
+        "3. Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees).",
+        "4. Employ basic program analysis techniques to evaluate behavior of functions and simple algorithms such as assessing correctness and termination of simple algorithms, constructing recurrences, solving simple recurrences, and applying asymptotic analysis.",
+        "5. Apply basic combinatoric techniques to counting problems.",
+        "6. Demonstrate the connections between a description of a simple language and a finite state machine or regular expression. Given a finite state machine or regular expression, determine the language it defines and/or whether a given string is recognized by it. Given a simple language, construct a finite state machine or regular expression that recognizes it."
+      ]
     }
   },
   {
@@ -104,7 +137,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Perform basic operations on binary representations for data Audience: Undergraduate 2. Analyze simple combinational and sequential digital logic and memory systems Audience: Undergraduate 3. Identify the components and operation of an instruction set processor and write programs using assembly language Audience: Undergraduate 4. Recognize and analyze ethical and professional responsibilities in engineering contexts Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Perform basic operations on binary representations for data",
+        "2. Analyze simple combinational and sequential digital logic and memory systems",
+        "3. Identify the components and operation of an instruction set processor and write programs using assembly language",
+        "4. Recognize and analyze ethical and professional responsibilities in engineering contexts"
+      ]
     }
   },
   {
@@ -121,7 +159,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Develop understanding and application of current web scripting languages and development tools and frameworks. Audience: Undergraduate 2. Install, configure, and customize open source content management systems. Audience: Undergraduate 3. Understand and apply user experience and accessibility best practices in building accessible web-based systems. Audience: Undergraduate 4. Design solutions to problems using multi-step scripting, logical operations, and functions. Audience: Undergraduate 5. Understand ethical issues and concerns related to website development and its related technologies. Audience: Undergraduate 6. Analyze the management challenges, and ethical considerations inherent in web development projects. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Develop understanding and application of current web scripting languages and development tools and frameworks.",
+        "2. Install, configure, and customize open source content management systems.",
+        "3. Understand and apply user experience and accessibility best practices in building accessible web-based systems.",
+        "4. Design solutions to problems using multi-step scripting, logical operations, and functions.",
+        "5. Understand ethical issues and concerns related to website development and its related technologies.",
+        "6. Analyze the management challenges, and ethical considerations inherent in web development projects."
+      ]
     }
   },
   {
@@ -155,7 +200,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. List and describe common operations for List, Stack, Queue, Priority Queue, Tree. Audience: Undergraduate 2. Analyze the time-complexity and compare the Big-Oh O(n) worse case complexity of different ADT implementations, and the complexity for any data structures and algorithms used to implement those operations. Audience: Undergraduate 3. Identify and properly test all boundary conditions for comprehensive testing of their programs. Audience: Undergraduate 4. Interpret and create a variety of diagrams: Call Stack trace; Stack, Queue, and Tree Data Structures; Recursive call (list or tree), control flow charts, class diagrams, object diagrams, and use-case diagrams. Audience: Undergraduate 5. Implement Object-Oriented (multi-class) standalone programs that manage a variety of data storage and retrieval operations (Program development skills and experience). Audience: Undergraduate 6. Evaluate models and arguments using quantitative information. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. List and describe common operations for List, Stack, Queue, Priority Queue, Tree.",
+        "2. Analyze the time-complexity and compare the Big-Oh O(n) worse case complexity of different ADT implementations, and the complexity for any data structures and algorithms used to implement those operations.",
+        "3. Identify and properly test all boundary conditions for comprehensive testing of their programs.",
+        "4. Interpret and create a variety of diagrams: Call Stack trace; Stack, Queue, and Tree Data Structures; Recursive call (list or tree), control flow charts, class diagrams, object diagrams, and use-case diagrams.",
+        "5. Implement Object-Oriented (multi-class) standalone programs that manage a variety of data storage and retrieval operations (Program development skills and experience).",
+        "6. Evaluate models and arguments using quantitative information."
+      ]
     }
   },
   {
@@ -169,7 +221,15 @@
         "L&S Credit": "L&S Liberal Arts and Science"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Read and trace Java code to predict program behavior, identify errors, and explain how control flows through conditional statements, loops, and method calls. Audience: Undergraduate 2. Write well-structured Java programs that use variables, expressions, control flow constructs, methods, arrays, ArrayList, and strings to solve clearly specified problems, including reading from and writing to files for data processing. Audience: Undergraduate 3. Design and implement methods that follow principles of modular design, including appropriate parameter passing, return values, and single-responsibility organization. Audience: Undergraduate 4. Apply object-oriented programming concepts including classes, objects, instance variables, methods, constructors, encapsulation, and foundational inheritance to organize code and represent real-world entities and relationships. Audience: Undergraduate 5. Decompose programming problems into smaller sub-problems using computational thinking techniques such as abstraction, pattern recognition, and step-by-step algorithmic reasoning. Audience: Undergraduate 6. Test and debug programs systematically using manual testing strategies, test case development, print statements, and careful analysis of error messages to ensure correctness. Audience: Undergraduate 7. Write clear, readable code with meaningful variable names, appropriate comments, and consistent formatting that follows Java conventions and professional best practices. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Read and trace Java code to predict program behavior, identify errors, and explain how control flows through conditional statements, loops, and method calls.",
+        "2. Write well-structured Java programs that use variables, expressions, control flow constructs, methods, arrays, ArrayList, and strings to solve clearly specified problems, including reading from and writing to files for data processing.",
+        "3. Design and implement methods that follow principles of modular design, including appropriate parameter passing, return values, and single-responsibility organization.",
+        "4. Apply object-oriented programming concepts including classes, objects, instance variables, methods, constructors, encapsulation, and foundational inheritance to organize code and represent real-world entities and relationships.",
+        "5. Decompose programming problems into smaller sub-problems using computational thinking techniques such as abstraction, pattern recognition, and step-by-step algorithmic reasoning.",
+        "6. Test and debug programs systematically using manual testing strategies, test case development, print statements, and careful analysis of error messages to ensure correctness.",
+        "7. Write clear, readable code with meaningful variable names, appropriate comments, and consistent formatting that follows Java conventions and professional best practices."
+      ]
     }
   },
   {
@@ -186,7 +246,11 @@
       },
       "Repeatable for Credit": "Yes, unlimited number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Demonstrate collaborative programming and thinking skills in group settings. Audience: Undergraduate 2. Explain computer science concepts verbally. Audience: Undergraduate 3. Describe computing's impact on communities, including its role in perpetuating bias and power. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Demonstrate collaborative programming and thinking skills in group settings.",
+        "2. Explain computer science concepts verbally.",
+        "3. Describe computing's impact on communities, including its role in perpetuating bias and power."
+      ]
     }
   },
   {
@@ -214,7 +278,14 @@
       "Requisites": "Graduate/professional standing",
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems Audience: Undergraduate 2. demonstrate competencies with tools and processes necessary for data management and reproducibility Audience: Undergraduate 3. produce meaning from data employing modeling strategies Audience: Undergraduate 4. demonstrate critical thinking related to data science concepts and methods Audience: Undergraduate 5. demonstrate oral, written and visual communication skills related to data science Audience: Undergraduate 6. manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems",
+        "2. demonstrate competencies with tools and processes necessary for data management and reproducibility",
+        "3. produce meaning from data employing modeling strategies",
+        "4. demonstrate critical thinking related to data science concepts and methods",
+        "5. demonstrate oral, written and visual communication skills related to data science",
+        "6. manipulate quantitative information to create models, and/or devise solutions to problems using multi-step arguments, based on and supported by quantitative information"
+      ]
     }
   },
   {
@@ -232,7 +303,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems Audience: Undergraduate 2. demonstrate competencies with tools and processes necessary for data management and reproducibility Audience: Undergraduate 3. produce meaning from data employing modeling strategies Audience: Undergraduate 4. demonstrate critical thinking related to data science concepts and methods Audience: Undergraduate 5. conduct data science activities aware of and according to policy, privacy, security and ethical considerations Audience: Undergraduate 6. demonstrate oral, written and visual communication skills related to data science Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. integrate foundational concepts and tools from mathematics, computer science and statistics to solve data science problems",
+        "2. demonstrate competencies with tools and processes necessary for data management and reproducibility",
+        "3. produce meaning from data employing modeling strategies",
+        "4. demonstrate critical thinking related to data science concepts and methods",
+        "5. conduct data science activities aware of and according to policy, privacy, security and ethical considerations",
+        "6. demonstrate oral, written and visual communication skills related to data science"
+      ]
     }
   },
   {
@@ -250,7 +328,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Perform operations on signed and unsigned numbers, including evaluating overflow Audience: Undergraduate 2. Implement Boolean logic circuits, use Boolean identities to perform algebraic manipulations, use Karnaugh maps to implement any function of 4 variables, use DeMorgans's Theorem, implement any function as SOP or POS Audience: Undergraduate 3. Design datapath circuits, decoders, muxes, priority encoders, tri-states, understand hierarchy and how to build up larger datapaths from blocks, design ALUs and other digital circuits using rudimentary HDL constructs Audience: Undergraduate 4. Design sequential circuits, analyze synchronous vs. asynchronous designs and flip-flops vs. latches, trace the behavior of a sequential circuit, design state machines for control Logic Audience: Undergraduate 5. Analyze basic processor architecture, define a control word and analyze operation of the datapath in relation to it, describe the basic operation of a single-cycle stored program computer Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Perform operations on signed and unsigned numbers, including evaluating overflow",
+        "2. Implement Boolean logic circuits, use Boolean identities to perform algebraic manipulations, use Karnaugh maps to implement any function of 4 variables, use DeMorgans's Theorem, implement any function as SOP or POS",
+        "3. Design datapath circuits, decoders, muxes, priority encoders, tri-states, understand hierarchy and how to build up larger datapaths from blocks, design ALUs and other digital circuits using rudimentary HDL constructs",
+        "4. Design sequential circuits, analyze synchronous vs. asynchronous designs and flip-flops vs. latches, trace the behavior of a sequential circuit, design state machines for control Logic",
+        "5. Analyze basic processor architecture, define a control word and analyze operation of the datapath in relation to it, describe the basic operation of a single-cycle stored program computer"
+      ]
     }
   },
   {
@@ -269,7 +353,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Implement and interpret C programs using standard tools, and relate C language constructs to both assembly language and fundamental computer system structures. Audience: Undergraduate 2. Differentiate, describe, and diagram the memory segments of a process's virtual address space and explain how each is used in C programs. Audience: Undergraduate 3. Describe and diagram how dynamically allocated (heap) memory works, analyze the performance of allocation strategies, and implement a dynamic memory manager in C. Audience: Undergraduate 4. Differentiate memory hierarchy levels, relative performance, and space differences, differentiate between common cache configurations, and appraise the effects of data structures and access patterns on spatial and temporal locality and available memory caching on the performance of C programs. Audience: Undergraduate 5. Diagram a stack trace of execution for function calls in C programs, and explain how the compiler implements the stack with assembly language code. Audience: Undergraduate 6. Write C programs that send and receive signals and respond to exceptional circumstances, and explain the underlying mechanism that enables asynchronous execution. Audience: Undergraduate 7. Identify and summarize the steps required to build an executable program from multiple C source code files and compiled libraries, and describe the processes of linking multiple object code modules to form an executable and loading an executable to run it. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Implement and interpret C programs using standard tools, and relate C language constructs to both assembly language and fundamental computer system structures.",
+        "2. Differentiate, describe, and diagram the memory segments of a process's virtual address space and explain how each is used in C programs.",
+        "3. Describe and diagram how dynamically allocated (heap) memory works, analyze the performance of allocation strategies, and implement a dynamic memory manager in C.",
+        "4. Differentiate memory hierarchy levels, relative performance, and space differences, differentiate between common cache configurations, and appraise the effects of data structures and access patterns on spatial and temporal locality and available memory caching on the performance of C programs.",
+        "5. Diagram a stack trace of execution for function calls in C programs, and explain how the compiler implements the stack with assembly language code.",
+        "6. Write C programs that send and receive signals and respond to exceptional circumstances, and explain the underlying mechanism that enables asynchronous execution.",
+        "7. Identify and summarize the steps required to build an executable program from multiple C source code files and compiled libraries, and describe the processes of linking multiple object code modules to form an executable and loading an executable to run it."
+      ]
     }
   },
   {
@@ -298,7 +390,15 @@
         "L&S Credit": "L&S Liberal Arts and Science"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Implement and analyze fundamental data structures including array-based lists, linked lists, stacks, queues, binary search trees, and hash tables in Java, understanding their efficiency trade-offs and appropriate use cases for different problem contexts. Audience: Undergraduate 2. Apply asymptotic analysis using Big O notation to evaluate algorithm efficiency, compare time and space complexity trade-offs, and make informed decisions about data structure and algorithm selection. Audience: Undergraduate 3. Design and implement recursive solutions for problems involving recursive data structures and algorithms, understanding the relationship between recursion and iteration and their performance implications. Audience: Undergraduate 4. Implement and compare searching and sorting algorithms, including binary search and sorting algorithms with different complexity classes (O(n²) and O(n log n)), understanding their requirements, performance characteristics, and appropriate applications. Audience: Undergraduate 5. Design object-oriented software using interfaces, abstract classes, and inheritance to create flexible, maintainable data structure implementations that separate abstract behavior from concrete implementation. Audience: Undergraduate 6. Apply professional software development practices including version control with Git (branching, merging, collaboration), unit testing with JUnit, code documentation with Javadoc, and peer code review to produce high-quality, maintainable software. Audience: Undergraduate 7. Evaluate and apply data structures from the Java Collections Framework (ArrayList, TreeMap, PriorityQueue) as black boxes, understanding when to implement custom structures versus using library implementations and how to extend existing codebases professionally. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Implement and analyze fundamental data structures including array-based lists, linked lists, stacks, queues, binary search trees, and hash tables in Java, understanding their efficiency trade-offs and appropriate use cases for different problem contexts.",
+        "2. Apply asymptotic analysis using Big O notation to evaluate algorithm efficiency, compare time and space complexity trade-offs, and make informed decisions about data structure and algorithm selection.",
+        "3. Design and implement recursive solutions for problems involving recursive data structures and algorithms, understanding the relationship between recursion and iteration and their performance implications.",
+        "4. Implement and compare searching and sorting algorithms, including binary search and sorting algorithms with different complexity classes (O(n²) and O(n log n)), understanding their requirements, performance characteristics, and appropriate applications.",
+        "5. Design object-oriented software using interfaces, abstract classes, and inheritance to create flexible, maintainable data structure implementations that separate abstract behavior from concrete implementation.",
+        "6. Apply professional software development practices including version control with Git (branching, merging, collaboration), unit testing with JUnit, code documentation with Javadoc, and peer code review to produce high-quality, maintainable software.",
+        "7. Evaluate and apply data structures from the Java Collections Framework (ArrayList, TreeMap, PriorityQueue) as black boxes, understanding when to implement custom structures versus using library implementations and how to extend existing codebases professionally."
+      ]
     }
   },
   {
@@ -316,7 +416,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Select and use standard development tools, including shells, source control and build systems. Audience: Undergraduate 2. Develop a program including making and describing high and low-level design decisions. Audience: Undergraduate 3. Apply, implement, and analyze sorting, tree and graph algorithms. Audience: Undergraduate 4. Select and apply common indexing data structures to represent sets and maps. Audience: Undergraduate 5. Design and categorize different types of tests and pick types based on the testing scenario. Audience: Undergraduate 6. Identify and solve problems by applying standard methods including graph algorithms, balanced trees, and sorting. Audience: Undergraduate 7. Read, analyze and review programs to summarize and evaluate their functionality, performance and maintainability. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Select and use standard development tools, including shells, source control and build systems.",
+        "2. Develop a program including making and describing high and low-level design decisions.",
+        "3. Apply, implement, and analyze sorting, tree and graph algorithms.",
+        "4. Select and apply common indexing data structures to represent sets and maps.",
+        "5. Design and categorize different types of tests and pick types based on the testing scenario.",
+        "6. Identify and solve problems by applying standard methods including graph algorithms, balanced trees, and sorting.",
+        "7. Read, analyze and review programs to summarize and evaluate their functionality, performance and maintainability."
+      ]
     }
   },
   {
@@ -333,7 +441,11 @@
       },
       "Repeatable for Credit": "Yes, for 3 number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Apply academic experience gained through coursework in a professional setting. Audience: Undergraduate 2. Experience the nature and demands of a professional career in computer science, information science, and/or statistics/data science Audience: Undergraduate 3. Develop professional and transferable skills like time management, collaboration, problem-solving, and communication in the workplace. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Apply academic experience gained through coursework in a professional setting.",
+        "2. Experience the nature and demands of a professional career in computer science, information science, and/or statistics/data science",
+        "3. Develop professional and transferable skills like time management, collaboration, problem-solving, and communication in the workplace."
+      ]
     }
   },
   {
@@ -350,7 +462,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Write programs in the Scratch programming language. Audience: Undergraduate 2. Design and lead after-school programming clubs for K-12 students. Audience: Undergraduate 3. Incorporate effective instructional strategies when teaching K-12 students. Audience: Undergraduate 4. Reflect on and document their teaching. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Write programs in the Scratch programming language.",
+        "2. Design and lead after-school programming clubs for K-12 students.",
+        "3. Incorporate effective instructional strategies when teaching K-12 students.",
+        "4. Reflect on and document their teaching."
+      ]
     }
   },
   {
@@ -366,7 +483,11 @@
       },
       "Repeatable for Credit": "Yes, for 3 number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand the challenges and opportunities in Computer Sciences and Data Science professions Audience: Undergraduate 2. Be prepared to find, apply and interview for a job and/or additional education Audience: Undergraduate 3. Articulate your career goals and long-term trajectory Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Understand the challenges and opportunities in Computer Sciences and Data Science professions",
+        "2. Be prepared to find, apply and interview for a job and/or additional education",
+        "3. Articulate your career goals and long-term trajectory"
+      ]
     }
   },
   {
@@ -383,7 +504,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand the mobile ecosystem. Audience: Undergraduate 2. Understand basics of mobile system design and constituents, including wireless communication, location services, energy management, use of cloud services, and mobile device interface design. Audience: Undergraduate 3. Demonstrate the fundamentals of mobile app development: setting up the development environment, creating an app from scratch, and understanding the app lifecycle. Audience: Undergraduate 4. Understand the various app components, strategies for optimizing app performance, and use of mobile features. Audience: Undergraduate 5. Construct end-to-end applications that use server backends. Audience: Undergraduate 6. Demonstrate strong teamwork capabilities including collaborative working, task distribution, and conflict resolution. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Understand the mobile ecosystem.",
+        "2. Understand basics of mobile system design and constituents, including wireless communication, location services, energy management, use of cloud services, and mobile device interface design.",
+        "3. Demonstrate the fundamentals of mobile app development: setting up the development environment, creating an app from scratch, and understanding the app lifecycle.",
+        "4. Understand the various app components, strategies for optimizing app performance, and use of mobile features.",
+        "5. Construct end-to-end applications that use server backends.",
+        "6. Demonstrate strong teamwork capabilities including collaborative working, task distribution, and conflict resolution."
+      ]
     }
   },
   {
@@ -417,7 +545,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Identify and use the structural properties of combinatorial optimization problems Audience: Undergraduate 2. Apply algorithms for the solution -exact or approximate- of a combinatorial optimization problem Audience: Undergraduate 3. Explain why the algorithms studied are correct and understand their running time Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Identify and use the structural properties of combinatorial optimization problems",
+        "2. Apply algorithms for the solution -exact or approximate- of a combinatorial optimization problem",
+        "3. Explain why the algorithms studied are correct and understand their running time"
+      ]
     }
   },
   {
@@ -434,7 +566,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Describe and distinguish between perfect secrecy and computational security. Audience: Undergraduate 2. State game‑based security definitions—IND‑CPA, IND‑CCA, MAC unforgeability, and signature unforgeability—in both symmetric‑ and public‑key contexts. Audience: Undergraduate 3. Explain core primitives: pseudorandom functions, block ciphers, and collision‑resistant hash functions. Audience: Undergraduate 4. Contrast foundational hardness assumptions: one‑way functions, PRFs, Diffie–Hellman, discrete logarithm, and integer factoring. Audience: Undergraduate 5. Construct symmetric and public‑key encryption and authentication schemes using these primitives, and prove their security. Audience: Undergraduate 6. Evaluate the security and deployment trade‑offs of protocols such as authenticated encryption, key exchange, and digital signatures. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Describe and distinguish between perfect secrecy and computational security.",
+        "2. State game‑based security definitions—IND‑CPA, IND‑CCA, MAC unforgeability, and signature unforgeability—in both symmetric‑ and public‑key contexts.",
+        "3. Explain core primitives: pseudorandom functions, block ciphers, and collision‑resistant hash functions.",
+        "4. Contrast foundational hardness assumptions: one‑way functions, PRFs, Diffie–Hellman, discrete logarithm, and integer factoring.",
+        "5. Construct symmetric and public‑key encryption and authentication schemes using these primitives, and prove their security.",
+        "6. Evaluate the security and deployment trade‑offs of protocols such as authenticated encryption, key exchange, and digital signatures."
+      ]
     }
   },
   {
@@ -448,7 +587,14 @@
         "L&S Credit": "L&S Liberal Arts and Science"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Demonstrate a strong understanding of functions, including core principles of functional programming. Audience: Undergraduate 2. Apply classic functional programming techniques (e.g., map, fold, filter) to effectively solve computational problems. Audience: Undergraduate 3. Analyze code statically to determine its behavior, output, and broader implications without executing it. Audience: Undergraduate 4. Apply structured natural language programming techniques when working with AI coding assistants. Audience: Undergraduate 5. Design, develop, and manage tools that support AI-assisted programming workflows. Audience: Undergraduate 6. Create and operate a dynamic development environment for effective interaction with generative AI models. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Demonstrate a strong understanding of functions, including core principles of functional programming.",
+        "2. Apply classic functional programming techniques (e.g., map, fold, filter) to effectively solve computational problems.",
+        "3. Analyze code statically to determine its behavior, output, and broader implications without executing it.",
+        "4. Apply structured natural language programming techniques when working with AI coding assistants.",
+        "5. Design, develop, and manage tools that support AI-assisted programming workflows.",
+        "6. Create and operate a dynamic development environment for effective interaction with generative AI models."
+      ]
     }
   },
   {
@@ -466,7 +612,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2025",
-      "Learning Outcomes": "1. Use computational tools (alongside mathematical ones) to extract information from (a) the likelihood function, the central object of interest in frequentist statistics, and (b) the posterior distribution, the central object of interest in Bayesian statistics Audience: Undergraduate 2. Describe, understand the theoretical properties of, and implement basic algorithms for optimizing likelihood functions, including least squares and the IRLS algorithm, and the EM algorithm Audience: Undergraduate 3. Understand random numbers and pseudorandom numbers and how to distinguish them, and utilize a variety of techniques for generating random variates from a probability distribution Audience: Undergraduate 4. Use Monte Carlo methodology for such purposes as (a) carrying out a simulation study to study the properties of a statistical method, or (b) performing statistical inference via the bootstrap, or MCMC Audience: Undergraduate 5. Understand the use of graphical models for representing the structure of complex joint distributions, and be able to use computational tools to extract information from graphical models Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Use computational tools (alongside mathematical ones) to extract information from (a) the likelihood function, the central object of interest in frequentist statistics, and (b) the posterior distribution, the central object of interest in Bayesian statistics",
+        "2. Describe, understand the theoretical properties of, and implement basic algorithms for optimizing likelihood functions, including least squares and the IRLS algorithm, and the EM algorithm",
+        "3. Understand random numbers and pseudorandom numbers and how to distinguish them, and utilize a variety of techniques for generating random variates from a probability distribution",
+        "4. Use Monte Carlo methodology for such purposes as (a) carrying out a simulation study to study the properties of a statistical method, or (b) performing statistical inference via the bootstrap, or MCMC",
+        "5. Understand the use of graphical models for representing the structure of complex joint distributions, and be able to use computational tools to extract information from graphical models"
+      ]
     }
   },
   {
@@ -484,7 +636,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Develop understanding and application of current web scripting languages and development tools and frameworks. Audience: Both Grad & Undergrad 2. Install, configure, and customize open source content management systems. Audience: Both Grad & Undergrad 3. Understand and apply user experience and accessibility best practices in building accessible websites. Audience: Both Grad & Undergrad 4. Design solutions to problems using multi-step scripting, logical operations, and functions. Audience: Both Grad & Undergrad 5. Understand ethical issues and concerns related to website development and its related technologies. Audience: Both Grad & Undergrad 6. Analyze the management challenges, and ethical considerations inherent in web development projects. Audience: Both Grad & Undergrad 7. Critically evaluate and compare different frameworks and libraries for extending scripting capabilities. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Develop understanding and application of current web scripting languages and development tools and frameworks.",
+        "2. Install, configure, and customize open source content management systems.",
+        "3. Understand and apply user experience and accessibility best practices in building accessible websites.",
+        "4. Design solutions to problems using multi-step scripting, logical operations, and functions.",
+        "5. Understand ethical issues and concerns related to website development and its related technologies.",
+        "6. Analyze the management challenges, and ethical considerations inherent in web development projects.",
+        "7. Critically evaluate and compare different frameworks and libraries for extending scripting capabilities."
+      ]
     }
   },
   {
@@ -502,7 +662,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand basic counting strategies, such as staged thought-experiments, inclusion/exclusion, generating functions, and recurrence relations, and apply these strategies to solve a wide variety of counting problems. Audience: Undergraduate 2. Recall basic objects that are used in combinatorics, such as permutations and combinations of sets and multisets, binomial and multinomial coefficients, the Catalan numbers, the Stirling numbers, and the partition numbers. Audience: Undergraduate 3. Analyze a given combinatorial problem using the standard theorems of combinatorics, such as the pigeonhole principle, the Newton binomial theorem, the multinomial theorem, the Ramsey theorem, the Dilworth theorem, the Burnside theorem, and the Polya counting theorem. Audience: Undergraduate 4. Construct mathematical arguments related to combinatorial problems using the above definitions, properties, theorems, and counting strategies; including the construction of examples and counterexamples. Audience: Undergraduate 5. Convey arguments in oral and written form in English, using appropriate mathematical terminology, notation, and grammar. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Understand basic counting strategies, such as staged thought-experiments, inclusion/exclusion, generating functions, and recurrence relations, and apply these strategies to solve a wide variety of counting problems.",
+        "2. Recall basic objects that are used in combinatorics, such as permutations and combinations of sets and multisets, binomial and multinomial coefficients, the Catalan numbers, the Stirling numbers, and the partition numbers.",
+        "3. Analyze a given combinatorial problem using the standard theorems of combinatorics, such as the pigeonhole principle, the Newton binomial theorem, the multinomial theorem, the Ramsey theorem, the Dilworth theorem, the Burnside theorem, and the Polya counting theorem.",
+        "4. Construct mathematical arguments related to combinatorial problems using the above definitions, properties, theorems, and counting strategies; including the construction of examples and counterexamples.",
+        "5. Convey arguments in oral and written form in English, using appropriate mathematical terminology, notation, and grammar."
+      ]
     }
   },
   {
@@ -516,7 +682,13 @@
         "L&S Credit": "L&S Liberal Arts and Science"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Formulate abstractions of computational problems. Audience: Undergraduate 2. Design and implement efficient algorithms based on the paradigms of divide and conquer, dynamic programming, and greed. Audience: Undergraduate 3. Analyze worst-case running times and memory requirements of algorithms using asymptotic notation. Audience: Undergraduate 4. Know, evaluate, and apply common algorithms and intermediate data structures dealing with numbers, strings, and graphs, understand their basic efficiency trade-offs and appropriate use cases. Audience: Undergraduate 5. Carry through the process of program development from nontrivial real-world problem descriptions, over precise specifications and algorithmic solutions, to implementations. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Formulate abstractions of computational problems.",
+        "2. Design and implement efficient algorithms based on the paradigms of divide and conquer, dynamic programming, and greed.",
+        "3. Analyze worst-case running times and memory requirements of algorithms using asymptotic notation.",
+        "4. Know, evaluate, and apply common algorithms and intermediate data structures dealing with numbers, strings, and graphs, understand their basic efficiency trade-offs and appropriate use cases.",
+        "5. Carry through the process of program development from nontrivial real-world problem descriptions, over precise specifications and algorithmic solutions, to implementations."
+      ]
     }
   },
   {
@@ -532,7 +704,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Describe and demonstrate best practices in the teaching of computer science. Audience: Undergraduate 2. Create learning materials that exemplify selected computer science pedagogical topics. Audience: Undergraduate 3. Identify effective tutoring session strategies. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Describe and demonstrate best practices in the teaching of computer science.",
+        "2. Create learning materials that exemplify selected computer science pedagogical topics.",
+        "3. Identify effective tutoring session strategies."
+      ]
     }
   },
   {
@@ -549,7 +725,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Execute a significant software development project within a team Audience: Undergraduate 2. Use software tools for collaboration including source control, project management, and automated testing Audience: Undergraduate 3. Collaborate effectively on a significant software development project as part of a team, demonstrating professionalism in communication, accountability, and teamwork. Audience: Undergraduate 4. Describe and participate in various SWE inspection activities (e.g. Group Code Review; Pair Programming; Asynchronous Review). Audience: Undergraduate 5. Characterize and contrast software engineering methodologies and development techniques, including Agile, Waterfall, DevOps, Test-driven Development, Comment-First Development, and Extreme Programming Audience: Undergraduate 6. Characterize and contrast software design philosophies and principles. Audience: Undergraduate 7. Explain and evaluate techniques for software deployment such as Container and VM technologies. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Execute a significant software development project within a team",
+        "2. Use software tools for collaboration including source control, project management, and automated testing",
+        "3. Collaborate effectively on a significant software development project as part of a team, demonstrating professionalism in communication, accountability, and teamwork.",
+        "4. Describe and participate in various SWE inspection activities (e.g. Group Code Review; Pair Programming; Asynchronous Review).",
+        "5. Characterize and contrast software engineering methodologies and development techniques, including Agile, Waterfall, DevOps, Test-driven Development, Comment-First Development, and Extreme Programming",
+        "6. Characterize and contrast software design philosophies and principles.",
+        "7. Explain and evaluate techniques for software deployment such as Container and VM technologies."
+      ]
     }
   },
   {
@@ -568,7 +752,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Recall and state the formal definitions of the mathematical objects and their properties used in numerical linear algebra (e.g., matrix norms, the condition number, diagonalizability, under- and over-determined linear systems, normal equations, pseudoinverse, etc.). Audience: Both Grad & Undergrad 2. Use different algorithms of numerical linear algebra in their appropriate settings (e.g., LU factorization, QR decomposition, Gram–Schmidt process, singular value decomposition, power method, Arnoldi iteration, etc.). Audience: Both Grad & Undergrad 3. State the main theoretical results in the field (e.g., error bounds on the numerical solution of linear systems, algorithm stability, Gershgorin circle theorem, eigenvalue sensitivity to perturbations, etc.). Audience: Both Grad & Undergrad 4. Describe the complexity of different algorithms and how this affects the choice of algorithm for a particular purpose. Apply general principles for the efficient computer implementation of numerical linear algebra. Audience: Both Grad & Undergrad 5. Convey arguments in oral and written forms using English and appropriate mathematical terminology, notation and grammar. Audience: Both Grad & Undergrad 6. Identify applications of course content in current areas of research. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Recall and state the formal definitions of the mathematical objects and their properties used in numerical linear algebra (e.g., matrix norms, the condition number, diagonalizability, under- and over-determined linear systems, normal equations, pseudoinverse, etc.).",
+        "2. Use different algorithms of numerical linear algebra in their appropriate settings (e.g., LU factorization, QR decomposition, Gram–Schmidt process, singular value decomposition, power method, Arnoldi iteration, etc.).",
+        "3. State the main theoretical results in the field (e.g., error bounds on the numerical solution of linear systems, algorithm stability, Gershgorin circle theorem, eigenvalue sensitivity to perturbations, etc.).",
+        "4. Describe the complexity of different algorithms and how this affects the choice of algorithm for a particular purpose. Apply general principles for the efficient computer implementation of numerical linear algebra.",
+        "5. Convey arguments in oral and written forms using English and appropriate mathematical terminology, notation and grammar.",
+        "6. Identify applications of course content in current areas of research."
+      ]
     }
   },
   {
@@ -587,7 +778,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Recall and state the formal definitions of the mathematical objects and their properties used in numerical analysis (e.g., Lagrange polynomials, Gibbs phenomenon, Runge phenomenon, orthogonal polynomials, recurrence relation, Gaussian quadrature points, splines, etc.). Audience: Both Grad & Undergrad 2. Use different techniques of numerical analysis in their appropriate settings (e.g., polynomial interpolation, least square approximation, discrete Fourier transform, the Golub-Welsch algorithm, fast Fourier transform, trapezoidal rule and Simpson's rule, numerical differentiation, forward and backward Euler's method, etc.). Audience: Both Grad & Undergrad 3. State the main theoretical results related to the error analysis for different methods (e.g., least square error, numerical integration using a Riemann sum, the trapezoidal rule, Simpson's rule and Gaussian quadratures, (semi-)discrete Fourier transform, forward and backward Euler, etc.), and recall the arguments for these theorems and the underlying logic of their proofs. Audience: Both Grad & Undergrad 4. Convey arguments in oral and written forms using English and appropriate mathematical terminology, notation and grammar. Audience: Both Grad & Undergrad 5. Identify applications of course content in current areas of research. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Recall and state the formal definitions of the mathematical objects and their properties used in numerical analysis (e.g., Lagrange polynomials, Gibbs phenomenon, Runge phenomenon, orthogonal polynomials, recurrence relation, Gaussian quadrature points, splines, etc.).",
+        "2. Use different techniques of numerical analysis in their appropriate settings (e.g., polynomial interpolation, least square approximation, discrete Fourier transform, the Golub-Welsch algorithm, fast Fourier transform, trapezoidal rule and Simpson's rule, numerical differentiation, forward and backward Euler's method, etc.).",
+        "3. State the main theoretical results related to the error analysis for different methods (e.g., least square error, numerical integration using a Riemann sum, the trapezoidal rule, Simpson's rule and Gaussian quadratures, (semi-)discrete Fourier transform, forward and backward Euler, etc.), and recall the arguments for these theorems and the underlying logic of their proofs.",
+        "4. Convey arguments in oral and written forms using English and appropriate mathematical terminology, notation and grammar.",
+        "5. Identify applications of course content in current areas of research."
+      ]
     }
   },
   {
@@ -622,7 +819,16 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Design and implement deterministic finite automata to capture specified regular languages. Audience: Undergraduate 2. Differentiate between deterministic and nondeterministic finite automata and apply finite automata theory to express those computation tasks that can be captured by regular languages. Audience: Undergraduate 3. Express and interpret computational models that lead to and capture algorithmic thinking. Audience: Undergraduate 4. Design and implement a pushdown automata to capture specified context-free languages. Audience: Undergraduate 5. Identify and explain reasoning about formalization of computation, formulated as various models of computation and make transformations between finite automata and regular languages, pushdown automata and context-free languages. Audience: Undergraduate 6. Construct clear, concise, and sound proofs for statements regarding different models of computation, their relative strengths and weaknesses. Audience: Undergraduate 7. Reason with Turing machines, and the various equivalent formulations of computability theory, for example to explain how the formalization captures everyday computational processes. Audience: Undergraduate 8. Reason about computational intractability, applying the concepts of NP-hardness and NP-completeness to classify computational problems. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Design and implement deterministic finite automata to capture specified regular languages.",
+        "2. Differentiate between deterministic and nondeterministic finite automata and apply finite automata theory to express those computation tasks that can be captured by regular languages.",
+        "3. Express and interpret computational models that lead to and capture algorithmic thinking.",
+        "4. Design and implement a pushdown automata to capture specified context-free languages.",
+        "5. Identify and explain reasoning about formalization of computation, formulated as various models of computation and make transformations between finite automata and regular languages, pushdown automata and context-free languages.",
+        "6. Construct clear, concise, and sound proofs for statements regarding different models of computation, their relative strengths and weaknesses.",
+        "7. Reason with Turing machines, and the various equivalent formulations of computability theory, for example to explain how the formalization captures everyday computational processes.",
+        "8. Reason about computational intractability, applying the concepts of NP-hardness and NP-completeness to classify computational problems."
+      ]
     }
   },
   {
@@ -641,7 +847,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Engage in topics about \"optimization in practice\". Audience: Both Grad & Undergrad 2. Use and analyze the results of state of the art optimization software. Audience: Both Grad & Undergrad 3. Implement and solve optimization problems using appropriate software tools. Audience: Both Grad & Undergrad 4. Design good models for realistic applications in engineering and the sciences. Audience: Both Grad & Undergrad 5. Develop a practical application of optimization technology. Audience: Both Grad & Undergrad 6. Independently formulate and solve optimization problems relevant to their field of study. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Engage in topics about \"optimization in practice\".",
+        "2. Use and analyze the results of state of the art optimization software.",
+        "3. Implement and solve optimization problems using appropriate software tools.",
+        "4. Design good models for realistic applications in engineering and the sciences.",
+        "5. Develop a practical application of optimization technology.",
+        "6. Independently formulate and solve optimization problems relevant to their field of study."
+      ]
     }
   },
   {
@@ -660,7 +873,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Use linear programming to formulate real world decision problems. Audience: Both Grad & Undergrad 2. Apply the theory of linear programming, including geometric properties of polyhedra and duality. Audience: Both Grad & Undergrad 3. Apply algorithms to solve linear programming problems, and demonstrate their correctness. Audience: Both Grad & Undergrad 4. Combine different proving techniques explored in class in an original way to show new results. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Use linear programming to formulate real world decision problems.",
+        "2. Apply the theory of linear programming, including geometric properties of polyhedra and duality.",
+        "3. Apply algorithms to solve linear programming problems, and demonstrate their correctness.",
+        "4. Combine different proving techniques explored in class in an original way to show new results."
+      ]
     }
   },
   {
@@ -676,7 +894,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2020",
-      "Learning Outcomes": "1. Use the theory of linear programming to prove general duality results Audience: Undergraduate 2. Apply the concept of complementarity Audience: Undergraduate 3. Analyze and develop algorithms for solving optimization and equilibrium problems Audience: Undergraduate 4. Apply decomposition methods and other advanced algorithms for the solution of optimization and equilibrium problems Audience: Undergraduate 5. Understand economic concepts and how they relate to optimization and equilibria Audience: Undergraduate 6. Extend theory of linear programming into the framework of conic programming Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Use the theory of linear programming to prove general duality results",
+        "2. Apply the concept of complementarity",
+        "3. Analyze and develop algorithms for solving optimization and equilibrium problems",
+        "4. Apply decomposition methods and other advanced algorithms for the solution of optimization and equilibrium problems",
+        "5. Understand economic concepts and how they relate to optimization and equilibria",
+        "6. Extend theory of linear programming into the framework of conic programming"
+      ]
     }
   },
   {
@@ -694,7 +919,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Use matrices and vectors to formulate classification, prediction and matrix completion problems using techniques such as least squares, regularized least squares, the singular value decomposition, subspace methods, support vector machines, neural networks and kernel methods. Audience: Both Grad & Undergrad 2. Implement machine learning techniques for classification, prediction and matrix completion problems in software, and validate their performance on datasets using cross validation. Audience: Both Grad & Undergrad 3. Apply advanced techniques to formulate and prove optimality of various matrix based techniques in machine learning. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Use matrices and vectors to formulate classification, prediction and matrix completion problems using techniques such as least squares, regularized least squares, the singular value decomposition, subspace methods, support vector machines, neural networks and kernel methods.",
+        "2. Implement machine learning techniques for classification, prediction and matrix completion problems in software, and validate their performance on datasets using cross validation.",
+        "3. Apply advanced techniques to formulate and prove optimality of various matrix based techniques in machine learning."
+      ]
     }
   },
   {
@@ -712,7 +941,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Process digital images using available engineering software Audience: Both Grad & Undergrad 2. Use time-domain and frequency-domain methods to analyze images and their properties Audience: Both Grad & Undergrad 3. Apply nonlinear filters to images such as morphological operations, edge-preserving nonlinearities, and optimization-based filters Audience: Both Grad & Undergrad 4. Segment images using both small-scale and large-scale techniques Audience: Both Grad & Undergrad 5. Apply classification techniques to image recognition Audience: Both Grad & Undergrad 6. Extract features from images and apply to tasks such as registration and super-resolution Audience: Both Grad & Undergrad 7. Lead team in meeting objectives of image processing operations Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Process digital images using available engineering software",
+        "2. Use time-domain and frequency-domain methods to analyze images and their properties",
+        "3. Apply nonlinear filters to images such as morphological operations, edge-preserving nonlinearities, and optimization-based filters",
+        "4. Segment images using both small-scale and large-scale techniques",
+        "5. Apply classification techniques to image recognition",
+        "6. Extract features from images and apply to tasks such as registration and super-resolution",
+        "7. Lead team in meeting objectives of image processing operations"
+      ]
     }
   },
   {
@@ -730,7 +967,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Construct and manipulate abstract syntax trees (ASTs) to represent the structure of source programs, applying grammar rules and language constructs. Audience: Undergraduate 2. Compare and contrast interpreters and compilers, focusing on AST passes and execution models. Audience: Undergraduate 3. Design and implement interpreters by traversing and evaluating ASTs for simple and structured programming languages Audience: Undergraduate 4. Develop lexers and parsers that convert textual program input into ASTs, using formal grammar specifications and parsing techniques. Audience: Undergraduate 5. Implement static analyses, such as type checking, by analyzing and annotating ASTs to enforce program correctness rules. Audience: Undergraduate 6. Translate ASTs into low-level code (e.g., x86 assembly), applying principles of code generation and basic optimization. Audience: Undergraduate 7. Analyze how advanced language features, such as classes, objects, and garbage collection, introduce complexity in interpretation and compilation. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Construct and manipulate abstract syntax trees (ASTs) to represent the structure of source programs, applying grammar rules and language constructs.",
+        "2. Compare and contrast interpreters and compilers, focusing on AST passes and execution models.",
+        "3. Design and implement interpreters by traversing and evaluating ASTs for simple and structured programming languages",
+        "4. Develop lexers and parsers that convert textual program input into ASTs, using formal grammar specifications and parsing techniques.",
+        "5. Implement static analyses, such as type checking, by analyzing and annotating ASTs to enforce program correctness rules.",
+        "6. Translate ASTs into low-level code (e.g., x86 assembly), applying principles of code generation and basic optimization.",
+        "7. Analyze how advanced language features, such as classes, objects, and garbage collection, introduce complexity in interpretation and compilation."
+      ]
     }
   },
   {
@@ -748,7 +993,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Describe the role and core responsibilities of an operating system Audience: Undergraduate 2. Explain and evaluate key OS abstractions and mechanisms Audience: Undergraduate 3. Analyze and compare scheduling, memory management, and storage strategies Audience: Undergraduate 4. Implement and extend functionality in an operating system Audience: Undergraduate 5. Apply systems-level thinking to reason about performance, reliability, and correctness Audience: Undergraduate 6. Write and debug multi-threaded programs Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Describe the role and core responsibilities of an operating system",
+        "2. Explain and evaluate key OS abstractions and mechanisms",
+        "3. Analyze and compare scheduling, memory management, and storage strategies",
+        "4. Implement and extend functionality in an operating system",
+        "5. Apply systems-level thinking to reason about performance, reliability, and correctness",
+        "6. Write and debug multi-threaded programs"
+      ]
     }
   },
   {
@@ -765,7 +1017,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Read, write, and transform functional programs using key paradigms such as lazy evaluation, eager evaluation, and monads. Audience: Undergraduate 2. Apply lambda calculus as a formal foundation for understanding and reasoning about functional programming languages. Audience: Undergraduate 3. Reason about and analyze program behavior through type checking, type inference, and static analysis techniques. Audience: Undergraduate 4. Construct and reason about control flow in programs using techniques such as continuation-passing style (CPS) and monadic control structures. Audience: Undergraduate 5. Evaluate the role of type systems, polymorphism, and abstraction mechanisms in enforcing program correctness and expressiveness. Audience: Undergraduate 6. Analyze how programming language features influence program security, with a focus on reasoning about memory management and control flow vulnerabilities. Audience: Undergraduate 7. Apply formal reasoning techniques to construct correctness proofs of programs. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Read, write, and transform functional programs using key paradigms such as lazy evaluation, eager evaluation, and monads.",
+        "2. Apply lambda calculus as a formal foundation for understanding and reasoning about functional programming languages.",
+        "3. Reason about and analyze program behavior through type checking, type inference, and static analysis techniques.",
+        "4. Construct and reason about control flow in programs using techniques such as continuation-passing style (CPS) and monadic control structures.",
+        "5. Evaluate the role of type systems, polymorphism, and abstraction mechanisms in enforcing program correctness and expressiveness.",
+        "6. Analyze how programming language features influence program security, with a focus on reasoning about memory management and control flow vulnerabilities.",
+        "7. Apply formal reasoning techniques to construct correctness proofs of programs."
+      ]
     }
   },
   {
@@ -781,7 +1041,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Identify if a given data analysis task is a pattern classification problem or a model approximation problem. Audience: Undergraduate 2. Apply multi-layer perceptron neural network training algorithm to develop artificial neural network (ANN) based pattern classifiers and data predictors. Audience: Undergraduate 3. Apply deep learning network for pattern classification Audience: Undergraduate 4. Apply support vector machine (SVM) to develop pattern classifiers. Audience: Undergraduate 5. Apply self-organization map and k-means to perform clustering operations of a given data set. Audience: Undergraduate 6. Apply stochastic optimization methods, including simulated annealing, genetic algorithm and random search to solve a discrete optimization problem. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Identify if a given data analysis task is a pattern classification problem or a model approximation problem.",
+        "2. Apply multi-layer perceptron neural network training algorithm to develop artificial neural network (ANN) based pattern classifiers and data predictors.",
+        "3. Apply deep learning network for pattern classification",
+        "4. Apply support vector machine (SVM) to develop pattern classifiers.",
+        "5. Apply self-organization map and k-means to perform clustering operations of a given data set.",
+        "6. Apply stochastic optimization methods, including simulated annealing, genetic algorithm and random search to solve a discrete optimization problem."
+      ]
     }
   },
   {
@@ -799,7 +1066,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Identify, formulate and solve AI problems using appropriate computational approaches. Audience: Undergraduate 2. Apply knowledge of computer science, mathematics, and statistics to the analysis and enhancement of AI systems Audience: Undergraduate 3. Design and conduct AI experiments, and analyze and interpret data and outcomes. Audience: Undergraduate 4. Demonstrate their awareness of major theories, approaches, concepts, and current and classical research findings in AI. Audience: Undergraduate 5. Examine professional and ethical responsibility in AI practices for society. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Identify, formulate and solve AI problems using appropriate computational approaches.",
+        "2. Apply knowledge of computer science, mathematics, and statistics to the analysis and enhancement of AI systems",
+        "3. Design and conduct AI experiments, and analyze and interpret data and outcomes.",
+        "4. Demonstrate their awareness of major theories, approaches, concepts, and current and classical research findings in AI.",
+        "5. Examine professional and ethical responsibility in AI practices for society."
+      ]
     }
   },
   {
@@ -816,7 +1089,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Use and explain theoretical concepts in data science, such as concentration inequalities, learning, nonparametric distribution testing, optimization. Audience: Undergraduate 2. Use properties of high-dimensional random variables to perform tasks such as dimension reduction and separating mixtures of Gaussians Audience: Undergraduate 3. Use optimization algorithms such as gradient descent and stochastic gradient descent and analyze their computational complexity Audience: Undergraduate 4. Analyze sample complexity for basic learning tasks such binary linear classification, as well as computational complexity of algorithms for solving them Audience: Undergraduate 5. Analyze sample complexity of distribution testing tasks, such as testing uniformity and testing equivalence of discrete distributions Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Use and explain theoretical concepts in data science, such as concentration inequalities, learning, nonparametric distribution testing, optimization.",
+        "2. Use properties of high-dimensional random variables to perform tasks such as dimension reduction and separating mixtures of Gaussians",
+        "3. Use optimization algorithms such as gradient descent and stochastic gradient descent and analyze their computational complexity",
+        "4. Analyze sample complexity for basic learning tasks such binary linear classification, as well as computational complexity of algorithms for solving them",
+        "5. Analyze sample complexity of distribution testing tasks, such as testing uniformity and testing equivalence of discrete distributions"
+      ]
     }
   },
   {
@@ -832,7 +1111,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Think like an attacker, that is to think about software the way that an adversary would. Audience: Undergraduate 2. Design secure programs based on a structured methodology such as Threat Modeling. Have security in mind before writing the first line of code. Audience: Undergraduate 3. Program in a secure way by mastering a comprehensive set of techniques for producing code that is more resilient to attack. Audience: Undergraduate 4. Think like a security analyst, that is how to perform an in-depth software vulnerability assessments using a structured methodology such as First Principles Vulnerability Assessment (FPVA). Acquire the skills of a security analyst. Audience: Undergraduate 5. Use a variety of automated tools that help statically and dynamically analyze code for security flaws. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Think like an attacker, that is to think about software the way that an adversary would.",
+        "2. Design secure programs based on a structured methodology such as Threat Modeling. Have security in mind before writing the first line of code.",
+        "3. Program in a secure way by mastering a comprehensive set of techniques for producing code that is more resilient to attack.",
+        "4. Think like a security analyst, that is how to perform an in-depth software vulnerability assessments using a structured methodology such as First Principles Vulnerability Assessment (FPVA). Acquire the skills of a security analyst.",
+        "5. Use a variety of automated tools that help statically and dynamically analyze code for security flaws."
+      ]
     }
   },
   {
@@ -850,7 +1135,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Deploy distributed systems for data storage and analytics Audience: Undergraduate 2. Demonstrate competencies with tools and processes necessary for loading data into distributed storage systems Audience: Undergraduate 3. Write programs that use distributed platforms to efficiently analyze large datasets Audience: Undergraduate 4. Produce meaning from large datasets by training machine learning models in parallel or on distributed systems Audience: Undergraduate 5. Measure resource usage and overall cost of running distributed programs Audience: Undergraduate 6. Optimize distributed analytics programs to reduce resource consumption and program runtime Audience: Undergraduate 7. Demonstrate competencies with cloud services designed to store or analyze large datasets Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Deploy distributed systems for data storage and analytics",
+        "2. Demonstrate competencies with tools and processes necessary for loading data into distributed storage systems",
+        "3. Write programs that use distributed platforms to efficiently analyze large datasets",
+        "4. Produce meaning from large datasets by training machine learning models in parallel or on distributed systems",
+        "5. Measure resource usage and overall cost of running distributed programs",
+        "6. Optimize distributed analytics programs to reduce resource consumption and program runtime",
+        "7. Demonstrate competencies with cloud services designed to store or analyze large datasets"
+      ]
     }
   },
   {
@@ -866,7 +1159,13 @@
         "L&S Credit": "L&S Liberal Arts and Science"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Analyze strategic interactions using normal form games, including general-sum and zero-sum formulations, and apply solution concepts such as dominant strategy equilibria, Nash equilibria (NE), correlated equilibria (CE), and coarse correlated equilibria (CCE). Audience: Undergraduate 2. Compute/approximate NE, CE, and CCE using techniques such as the indifference lemma, linear programming, best response dynamics, and no-regret online (machine) learning. Audience: Undergraduate 3. Apply game-theoretic frameworks to machine learning problems, such as image generation and curriculum learning, by modeling and analyzing strategic behavior. Audience: Undergraduate 4. Design mechanisms that promote socially desirable outcomes among strategic agents, apply them to domains such as compute resource allocation, kidney exchange, residency matching, and auctions, and evaluate tradeoffs between game-theoretic desiderata and computational complexity. Audience: Undergraduate 5. Describe and evaluate foundational and computational aspects of cooperative game theory, including bargaining solutions and coalitional game concepts, and develop efficient approximation algorithms for computing them. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Analyze strategic interactions using normal form games, including general-sum and zero-sum formulations, and apply solution concepts such as dominant strategy equilibria, Nash equilibria (NE), correlated equilibria (CE), and coarse correlated equilibria (CCE).",
+        "2. Compute/approximate NE, CE, and CCE using techniques such as the indifference lemma, linear programming, best response dynamics, and no-regret online (machine) learning.",
+        "3. Apply game-theoretic frameworks to machine learning problems, such as image generation and curriculum learning, by modeling and analyzing strategic behavior.",
+        "4. Design mechanisms that promote socially desirable outcomes among strategic agents, apply them to domains such as compute resource allocation, kidney exchange, residency matching, and auctions, and evaluate tradeoffs between game-theoretic desiderata and computational complexity.",
+        "5. Describe and evaluate foundational and computational aspects of cooperative game theory, including bargaining solutions and coalitional game concepts, and develop efficient approximation algorithms for computing them."
+      ]
     }
   },
   {
@@ -883,7 +1182,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Use standard performance metrics to compare performance of different digital systems Audience: Undergraduate 2. Design a pipelined data path for a RISC (reduced instruction set computer) instruction set and identify concepts of data dependence, pipelined hazards and out of order execution Audience: Undergraduate 3. Design basic data and control cache subsystems and be able to operate basic memory systems Audience: Undergraduate 4. Design a pipelined RISC micro-processor system with data cache using computer aided design tool and validate the correctness of the design using logic simulation Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Use standard performance metrics to compare performance of different digital systems",
+        "2. Design a pipelined data path for a RISC (reduced instruction set computer) instruction set and identify concepts of data dependence, pipelined hazards and out of order execution",
+        "3. Design basic data and control cache subsystems and be able to operate basic memory systems",
+        "4. Design a pipelined RISC micro-processor system with data cache using computer aided design tool and validate the correctness of the design using logic simulation"
+      ]
     }
   },
   {
@@ -899,7 +1203,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Evaluate the efficiency and parallelism potential of algorithms, relative to bounds imposed by architectural limitations such as compute and memory bandwidth. Audience: Undergraduate 2. Understand the implications of the memory system on parallel scaling, including considerations of memory throughput, latency and prefetching efficiency. Audience: Undergraduate 3. Recognize instruction-level parallelism and evaluate how amenable different codes are to compiler-automated (or user-guided, via intrinsics) vectorization. Audience: Undergraduate 4. Compare data layouts (dense vs. sparse data, structures-of-arrays vs. arrays-of-structures) to throughput-sensitive codes. Audience: Undergraduate 5. Explore computational and memory-related performance implications of fundamental numerical codes such as convolutions, streaming vector operations, and matrix manipulations Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Evaluate the efficiency and parallelism potential of algorithms, relative to bounds imposed by architectural limitations such as compute and memory bandwidth.",
+        "2. Understand the implications of the memory system on parallel scaling, including considerations of memory throughput, latency and prefetching efficiency.",
+        "3. Recognize instruction-level parallelism and evaluate how amenable different codes are to compiler-automated (or user-guided, via intrinsics) vectorization.",
+        "4. Compare data layouts (dense vs. sparse data, structures-of-arrays vs. arrays-of-structures) to throughput-sensitive codes.",
+        "5. Explore computational and memory-related performance implications of fundamental numerical codes such as convolutions, streaming vector operations, and matrix manipulations"
+      ]
     }
   },
   {
@@ -915,7 +1225,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Develop interactive graphical applications in 2D and 3D using different types of APIs Audience: Undergraduate 2. Analyze and apply coordinate systems and transformations in 2D and 3D to model objects hierarchically and prepare them for viewing Audience: Undergraduate 3. Explain and apply shape modeling techniques, including parametric curves and meshes, in 2D and 3D Audience: Undergraduate 4. Select and apply appearance modeling techniques including texturing and lighting Audience: Undergraduate 5. Explain the structure and operation of the graphics pipeline and hardware, and use this understanding to implement and optimize efficient graphical applications Audience: Undergraduate 6. Identify the issues in discrete representations and select approaches to mitigate them Audience: Undergraduate 7. Discuss how imagery is perceived and the impact of perception on computer generated imagery Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Develop interactive graphical applications in 2D and 3D using different types of APIs",
+        "2. Analyze and apply coordinate systems and transformations in 2D and 3D to model objects hierarchically and prepare them for viewing",
+        "3. Explain and apply shape modeling techniques, including parametric curves and meshes, in 2D and 3D",
+        "4. Select and apply appearance modeling techniques including texturing and lighting",
+        "5. Explain the structure and operation of the graphics pipeline and hardware, and use this understanding to implement and optimize efficient graphical applications",
+        "6. Identify the issues in discrete representations and select approaches to mitigate them",
+        "7. Discuss how imagery is perceived and the impact of perception on computer generated imagery"
+      ]
     }
   },
   {
@@ -932,7 +1250,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2024",
-      "Learning Outcomes": "1. Identify how ambiguity and noise leads to the need for probabilistic methods in machine learning Audience: Both Grad & Undergrad 2. Implement classification, prediction and generative algorithms using a variety of techniques based in probability, information theory and machine learning Audience: Both Grad & Undergrad 3. Prove optimality of a variety of algorithms and demonstrate understanding of sample complexity bounds Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Identify how ambiguity and noise leads to the need for probabilistic methods in machine learning",
+        "2. Implement classification, prediction and generative algorithms using a variety of techniques based in probability, information theory and machine learning",
+        "3. Prove optimality of a variety of algorithms and demonstrate understanding of sample complexity bounds"
+      ]
     }
   },
   {
@@ -950,7 +1272,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Articulate and apply the foundations of relational database management systems (RDBMS). Audience: Undergraduate 2. Explain the concepts of data models, including the Entity-Relationship (ER) and Relational models, express application in these models, and translate between models Audience: Undergraduate 3. Use SQL to express complex queries over a relational database. Audience: Undergraduate 4. Describe how an RDBMS stores, indexes, and accesses data. Audience: Undergraduate 5. Explain how an RDBMS optimizes query execution and efficiently implements various operators. Audience: Undergraduate 6. Explain the motivations for transactions, concurrency control, and crash recovery. Audience: Undergraduate 7. Modify and extend the functionality of RDBMS. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Articulate and apply the foundations of relational database management systems (RDBMS).",
+        "2. Explain the concepts of data models, including the Entity-Relationship (ER) and Relational models, express application in these models, and translate between models",
+        "3. Use SQL to express complex queries over a relational database.",
+        "4. Describe how an RDBMS stores, indexes, and accesses data.",
+        "5. Explain how an RDBMS optimizes query execution and efficiently implements various operators.",
+        "6. Explain the motivations for transactions, concurrency control, and crash recovery.",
+        "7. Modify and extend the functionality of RDBMS."
+      ]
     }
   },
   {
@@ -966,7 +1296,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2024",
-      "Learning Outcomes": "1. Differentiate between visualizations to communicate within situational context. Audience: Undergraduate 2. Illustrate the types of properties that make visualizations more effective. Audience: Undergraduate 3. Apply techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology, and cognitive science. Audience: Undergraduate 4. Utilize visualization creation tools in individual and group assignment Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Differentiate between visualizations to communicate within situational context.",
+        "2. Illustrate the types of properties that make visualizations more effective.",
+        "3. Apply techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology, and cognitive science.",
+        "4. Utilize visualization creation tools in individual and group assignment"
+      ]
     }
   },
   {
@@ -982,7 +1317,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Describe a broad range of fundamental concepts in 2D and 3D computer vision, including basic image processing, 2D image recognition, 3D sensing and motion recovery Audience: Undergraduate 2. Explain basic theories, current approaches, key concepts, and common practices in computer vision. Audience: Undergraduate 3. Design basic statistics and machine learning algorithms for computer vision problems, conduct experiments to evaluate the proposed approaches, and analyze and interpret the results. Audience: Undergraduate 4. Develop basic computer vision applications and projects in MATLAB. Audience: Undergraduate 5. Prepare and deliver clear and concise oral presentations. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Describe a broad range of fundamental concepts in 2D and 3D computer vision, including basic image processing, 2D image recognition, 3D sensing and motion recovery",
+        "2. Explain basic theories, current approaches, key concepts, and common practices in computer vision.",
+        "3. Design basic statistics and machine learning algorithms for computer vision problems, conduct experiments to evaluate the proposed approaches, and analyze and interpret the results.",
+        "4. Develop basic computer vision applications and projects in MATLAB.",
+        "5. Prepare and deliver clear and concise oral presentations."
+      ]
     }
   },
   {
@@ -1000,7 +1341,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Implement the key principles of ideas from probability, statistics and computer vision algorithms used in medical image analysis Audience: Undergraduate 2. Recognize which image analysis problems will benefit from which modeling approach Audience: Undergraduate 3. Apply algorithms about image analysis tasks and implement algorithms and pipelines using a programming language Audience: Undergraduate 4. Implement the building blocks taught in this course to independently learn and apply new, but related imaging analysis algorithms Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Implement the key principles of ideas from probability, statistics and computer vision algorithms used in medical image analysis",
+        "2. Recognize which image analysis problems will benefit from which modeling approach",
+        "3. Apply algorithms about image analysis tasks and implement algorithms and pipelines using a programming language",
+        "4. Implement the building blocks taught in this course to independently learn and apply new, but related imaging analysis algorithms"
+      ]
     }
   },
   {
@@ -1017,7 +1363,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand fundamental concepts and principles of Human-Computer Interaction (HCI). Audience: Undergraduate 2. Apply user-centered design principles and methods to create effective and usable interfaces. Audience: Undergraduate 3. Analyze and evaluate user interfaces using appropriate usability evaluation techniques. Audience: Undergraduate 4. Develop a toolbox of user-centered design techniques that can be applied to new design problems. Audience: Undergraduate 5. Understand user needs and expectations with the aid of user research methods. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Understand fundamental concepts and principles of Human-Computer Interaction (HCI).",
+        "2. Apply user-centered design principles and methods to create effective and usable interfaces.",
+        "3. Analyze and evaluate user interfaces using appropriate usability evaluation techniques.",
+        "4. Develop a toolbox of user-centered design techniques that can be applied to new design problems.",
+        "5. Understand user needs and expectations with the aid of user research methods."
+      ]
     }
   },
   {
@@ -1033,7 +1385,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Engage in design thinking around user interface needs and problems, ideate and communicate conceptual design solutions Audience: Undergraduate 2. Create visual designs, layouts, and navigation structures, and effectively use design languages, color palettes, and platform-specific design elements Audience: Undergraduate 3. Prototype and develop user interfaces for the Web, mobile, and voice user interfaces (VUIs) Audience: Undergraduate 4. Program front-end, user-facing software elements using the state-of-the-art programming languages, frameworks, and libraries Audience: Undergraduate 5. Follow user-centered design principles, heuristics, and methods to iteratively build, assess, and refine design solutions Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Engage in design thinking around user interface needs and problems, ideate and communicate conceptual design solutions",
+        "2. Create visual designs, layouts, and navigation structures, and effectively use design languages, color palettes, and platform-specific design elements",
+        "3. Prototype and develop user interfaces for the Web, mobile, and voice user interfaces (VUIs)",
+        "4. Program front-end, user-facing software elements using the state-of-the-art programming languages, frameworks, and libraries",
+        "5. Follow user-centered design principles, heuristics, and methods to iteratively build, assess, and refine design solutions"
+      ]
     }
   },
   {
@@ -1051,7 +1409,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Deploy Structured Query Language (SQL) and Not Only SQL (NoSQL) databases to manage structured, semi-structured, and unstructured data and write programs to analyze the datasets. Audience: Undergraduate 2. Gain proficiency in data integration techniques such as Extract-Transform-Load (ETL) and Extract-Load-Transform (ELT), and demonstrate competencies with each stage of the ETL or ELT process. Audience: Undergraduate 3. Investigate methods for analyzing and forecasting time-dependent data, evaluating the effectiveness of different modeling approaches for capturing temporal trends and seasonality. Audience: Undergraduate 4. Develop skills for adapting data-driven models using unstructured data to improve task-specific performance. Audience: Undergraduate 5. Design and implement information retrieval-based pipelines that integrate external knowledge sources to support context-aware analysis and decision-making. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Deploy Structured Query Language (SQL) and Not Only SQL (NoSQL) databases to manage structured, semi-structured, and unstructured data and write programs to analyze the datasets.",
+        "2. Gain proficiency in data integration techniques such as Extract-Transform-Load (ETL) and Extract-Load-Transform (ELT), and demonstrate competencies with each stage of the ETL or ELT process.",
+        "3. Investigate methods for analyzing and forecasting time-dependent data, evaluating the effectiveness of different modeling approaches for capturing temporal trends and seasonality.",
+        "4. Develop skills for adapting data-driven models using unstructured data to improve task-specific performance.",
+        "5. Design and implement information retrieval-based pipelines that integrate external knowledge sources to support context-aware analysis and decision-making."
+      ]
     }
   },
   {
@@ -1067,7 +1431,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Explain the biology and significance of the most commonly measured molecules in molecular biology. Audience: Undergraduate 2. Identify the primary computational problems associated with each type of biological data. Audience: Undergraduate 3. Explain the major algorithms and approaches used to address the computational problems. Audience: Undergraduate 4. Implement efficient algorithms for bioinformatic tasks through the use of the discussed approaches. Audience: Undergraduate 5. Apply the discussed algorithms to novel but closely-related tasks. Audience: Undergraduate 6. Understand the methods covered such that parts of the methods sections of published biological papers are interpretable. Audience: Undergraduate 7. Begin to gain the qualifications of a bioinformatician. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Explain the biology and significance of the most commonly measured molecules in molecular biology.",
+        "2. Identify the primary computational problems associated with each type of biological data.",
+        "3. Explain the major algorithms and approaches used to address the computational problems.",
+        "4. Implement efficient algorithms for bioinformatic tasks through the use of the discussed approaches.",
+        "5. Apply the discussed algorithms to novel but closely-related tasks.",
+        "6. Understand the methods covered such that parts of the methods sections of published biological papers are interpretable.",
+        "7. Begin to gain the qualifications of a bioinformatician."
+      ]
     }
   },
   {
@@ -1085,7 +1457,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Design and analyze efficient algorithms based on the paradigms of divide-and-conquer, dynamic programming, and greed. Audience: Undergraduate 2. Construct clear, concise, and sound proofs for algorithmic correctness and complexity statements, applying logical reasoning, synthesizing definitions and theorems, and effectively communicating structured arguments. Audience: Undergraduate 3. Formulate abstractions of computational problems, and design and analyze efficient reductions between computational problems. Audience: Undergraduate 4. Describe, select and apply paradigmatic algorithms and reductions dealing with numbers, strings, graphs, and networks, including some that go beyond the standard paradigms and/or involve more intricate mathematics. Audience: Undergraduate 5. Recognize computational intractability, demonstrate NP-hardness, and articulate the repercussions. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Design and analyze efficient algorithms based on the paradigms of divide-and-conquer, dynamic programming, and greed.",
+        "2. Construct clear, concise, and sound proofs for algorithmic correctness and complexity statements, applying logical reasoning, synthesizing definitions and theorems, and effectively communicating structured arguments.",
+        "3. Formulate abstractions of computational problems, and design and analyze efficient reductions between computational problems.",
+        "4. Describe, select and apply paradigmatic algorithms and reductions dealing with numbers, strings, graphs, and networks, including some that go beyond the standard paradigms and/or involve more intricate mathematics.",
+        "5. Recognize computational intractability, demonstrate NP-hardness, and articulate the repercussions."
+      ]
     }
   },
   {
@@ -1117,7 +1495,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Summer 2026",
-      "Learning Outcomes": "1. Define and describe concepts related to virtual reality. Audience: Undergraduate 2. Demonstrate a basic understanding of how interactive computer graphics and game engines are built and operate. Audience: Undergraduate 3. Identify the underlying components of virtual reality software and hardware. Audience: Undergraduate 4. Identify the potential applications and challenges of virtual reality. Audience: Undergraduate 5. Apply principles of virtual reality in the construction of a class project. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Define and describe concepts related to virtual reality.",
+        "2. Demonstrate a basic understanding of how interactive computer graphics and game engines are built and operate.",
+        "3. Identify the underlying components of virtual reality software and hardware.",
+        "4. Identify the potential applications and challenges of virtual reality.",
+        "5. Apply principles of virtual reality in the construction of a class project."
+      ]
     }
   },
   {
@@ -1135,7 +1519,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Describe common components of robot software systems. Audience: Undergraduate 2. Apply classical approaches for robot configurations, kinematics, control, perception, state-estimation, mapping, and planning. Audience: Undergraduate 3. Compare and contrast classical approaches for each layer of a robot's software system. Audience: Undergraduate 4. Evaluate different robot software system designs for a target application. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Describe common components of robot software systems.",
+        "2. Apply classical approaches for robot configurations, kinematics, control, perception, state-estimation, mapping, and planning.",
+        "3. Compare and contrast classical approaches for each layer of a robot's software system.",
+        "4. Evaluate different robot software system designs for a target application."
+      ]
     }
   },
   {
@@ -1150,7 +1539,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Apply fundamental concepts and practices of user experience design Audience: Graduate 2. Understand the ethics of design including practices of inclusive design and accessibility Audience: Graduate 3. Conduct formative research to inform design Audience: Graduate 4. Apply common user data collection methods Audience: Graduate 5. Analyze and visualize processes across time and interfaces Audience: Graduate 6. Create and apply common UX design tools such as personas, scenarios and user journey maps Audience: Graduate 7. Effectively convey the output of user research and initial design through oral and written communication. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Apply fundamental concepts and practices of user experience design",
+        "2. Understand the ethics of design including practices of inclusive design and accessibility",
+        "3. Conduct formative research to inform design",
+        "4. Apply common user data collection methods",
+        "5. Analyze and visualize processes across time and interfaces",
+        "6. Create and apply common UX design tools such as personas, scenarios and user journey maps",
+        "7. Effectively convey the output of user research and initial design through oral and written communication."
+      ]
     }
   },
   {
@@ -1165,7 +1562,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Develop design ideas and communicate them through brainstorming, sketching, and modeling; Audience: Graduate 2. Create designs that follow principles of and best practices in visual and interaction design; Audience: Graduate 3. Prototype designs using rapid prototyping methods for communication and testing; Audience: Graduate 4. Understand human perceptual, cognitive, and motor processes involved in interaction; Audience: Graduate 5. Evaluate designs using expert- and empirical-evaluation methods; Audience: Graduate 6. Integrate design, prototyping, and evaluation methods and principles into a process toward addressing a design problem Audience: Graduate 7. Communicate their ideas to others, integrate feedback into their design work, and critique the work of others constructively. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Develop design ideas and communicate them through brainstorming, sketching, and modeling;",
+        "2. Create designs that follow principles of and best practices in visual and interaction design;",
+        "3. Prototype designs using rapid prototyping methods for communication and testing;",
+        "4. Understand human perceptual, cognitive, and motor processes involved in interaction;",
+        "5. Evaluate designs using expert- and empirical-evaluation methods;",
+        "6. Integrate design, prototyping, and evaluation methods and principles into a process toward addressing a design problem",
+        "7. Communicate their ideas to others, integrate feedback into their design work, and critique the work of others constructively."
+      ]
     }
   },
   {
@@ -1180,7 +1585,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Summer 2026",
-      "Learning Outcomes": "1. Demonstrate understanding of a variety of UX testing approaches Audience: Graduate 2. Plan and implement all phases of testing for a digital system including planning, data collection, analysis and reporting Audience: Graduate 3. Demonstrate understanding of the relationship among research design, instruments, metrics, and data analysis Audience: Graduate 4. Implement major testing approaches such as task-based, information architecture and accessibility Audience: Graduate 5. Have knowledge of contemporary tools used for UX testing Audience: Graduate 6. Communicate evaluation findings effectively and use data to improve systems design Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Demonstrate understanding of a variety of UX testing approaches",
+        "2. Plan and implement all phases of testing for a digital system including planning, data collection, analysis and reporting",
+        "3. Demonstrate understanding of the relationship among research design, instruments, metrics, and data analysis",
+        "4. Implement major testing approaches such as task-based, information architecture and accessibility",
+        "5. Have knowledge of contemporary tools used for UX testing",
+        "6. Communicate evaluation findings effectively and use data to improve systems design"
+      ]
     }
   },
   {
@@ -1195,7 +1607,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Summer 2026",
-      "Learning Outcomes": "1. Knowledge of, and ability to apply, data collection and analysis methodologies for user experience research. Audience: Graduate 2. Knowledge of, and ability to apply, design principles and user behavior theories to digital environments. Audience: Graduate 3. Create, critique and revise design prototypes based on testing data and feedback Audience: Graduate 4. Effectively plan, manage and communicate a user experience design project. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Knowledge of, and ability to apply, data collection and analysis methodologies for user experience research.",
+        "2. Knowledge of, and ability to apply, design principles and user behavior theories to digital environments.",
+        "3. Create, critique and revise design prototypes based on testing data and feedback",
+        "4. Effectively plan, manage and communicate a user experience design project."
+      ]
     }
   },
   {
@@ -1212,7 +1629,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Evaluate and utilize agile techniques such as Design Thinking and Scrum. Audience: Undergraduate 2. Demonstrate effective teamwork skills. Audience: Undergraduate 3. Develop a software product for a corporate client from start to finish including phases for discovery, design, coding, testing, and documentation. Audience: Undergraduate 4. Execute presentation skills by holding weekly demos with corporate client. Audience: Undergraduate 5. Examine the types of roles typically present in an agile software development organization such as Product Manager, UX, Scrum Master, engineers, testers, DevOps, etc Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Evaluate and utilize agile techniques such as Design Thinking and Scrum.",
+        "2. Demonstrate effective teamwork skills.",
+        "3. Develop a software product for a corporate client from start to finish including phases for discovery, design, coding, testing, and documentation.",
+        "4. Execute presentation skills by holding weekly demos with corporate client.",
+        "5. Examine the types of roles typically present in an agile software development organization such as Product Manager, UX, Scrum Master, engineers, testers, DevOps, etc"
+      ]
     }
   },
   {
@@ -1260,7 +1683,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand what a computer network is and its key components, such as switches, routers, firewalls, and access points. Audience: Undergraduate 2. Explain the concept of network protocols and their role in communications, how the Internet works, and especially the OSI model and the TCP/IP protocol suite. Audience: Undergraduate 3. Analyze network protocols at different layers, including TCP, UDP, IP, ARP, the IEEE 802 suite, DNS, BGP, and more, and including how they interact with each other. Audience: Undergraduate 4. Evaluate network performance metrics, strategies that allow for effective navigation and troubleshooting of network issues, and approaches to design network architectures. Audience: Undergraduate 5. Design and implement network services and applications. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Understand what a computer network is and its key components, such as switches, routers, firewalls, and access points.",
+        "2. Explain the concept of network protocols and their role in communications, how the Internet works, and especially the OSI model and the TCP/IP protocol suite.",
+        "3. Analyze network protocols at different layers, including TCP, UDP, IP, ARP, the IEEE 802 suite, DNS, BGP, and more, and including how they interact with each other.",
+        "4. Evaluate network performance metrics, strategies that allow for effective navigation and troubleshooting of network issues, and approaches to design network architectures.",
+        "5. Design and implement network services and applications."
+      ]
     }
   },
   {
@@ -1276,7 +1705,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Explain the purpose of security and accurately define and apply key concepts, including threats, vulnerabilities, and trust. Audience: Undergraduate 2. Apply best practices for both operational and system design security. Audience: Undergraduate 3. Apply formal security properties provided by cryptographic techniques and illustrate them with relevant cryptographic algorithms. Audience: Undergraduate 4. Evaluate the three fundamental authentication mechanisms, evaluate their trade-offs, and determine appropriate use cases. Audience: Undergraduate 5. Define, implement, and enforce access control policies within networks and operating systems. Audience: Undergraduate 6. Analyze the security of network and web environments through the deployment technology and policy Audience: Undergraduate 7. Create threat and trust models, and apply appropriate security mechanisms to protect system integrity. Audience: Undergraduate"
+      "Learning Outcomes": [
+        "1. Explain the purpose of security and accurately define and apply key concepts, including threats, vulnerabilities, and trust.",
+        "2. Apply best practices for both operational and system design security.",
+        "3. Apply formal security properties provided by cryptographic techniques and illustrate them with relevant cryptographic algorithms.",
+        "4. Evaluate the three fundamental authentication mechanisms, evaluate their trade-offs, and determine appropriate use cases.",
+        "5. Define, implement, and enforce access control policies within networks and operating systems.",
+        "6. Analyze the security of network and web environments through the deployment technology and policy",
+        "7. Create threat and trust models, and apply appropriate security mechanisms to protect system integrity."
+      ]
     }
   },
   {
@@ -1397,7 +1834,10 @@
       },
       "Repeatable for Credit": "Yes, unlimited number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Understand the nature and demands of a professional career in computer science. Audience: Graduate 2. Apply knowledge gained in computer science coursework in a professional setting. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Understand the nature and demands of a professional career in computer science.",
+        "2. Apply knowledge gained in computer science coursework in a professional setting."
+      ]
     }
   },
   {
@@ -1412,7 +1852,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2025",
-      "Learning Outcomes": "1. Logic: Syntax and formal semantics of temporal logics such as LTL and MSO and formalizing software safety properties. Translations from temporal logics to automata. Audience: Graduate 2. Model Checking: Understand algorithms for checking whether a program satisfies a temporal property in temporal logic and apply such algorithms to verification problems. Audience: Graduate 3. Synthesis: Understand and apply state-of-the-art program synthesis algorithms such as counterexample-guided inductive synthesis, syntax-guided synthesis, sketching, and MCMC sampling. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Logic: Syntax and formal semantics of temporal logics such as LTL and MSO and formalizing software safety properties. Translations from temporal logics to automata.",
+        "2. Model Checking: Understand algorithms for checking whether a program satisfies a temporal property in temporal logic and apply such algorithms to verification problems.",
+        "3. Synthesis: Understand and apply state-of-the-art program synthesis algorithms such as counterexample-guided inductive synthesis, syntax-guided synthesis, sketching, and MCMC sampling."
+      ]
     }
   },
   {
@@ -1497,7 +1941,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2025",
-      "Learning Outcomes": "1. Learn the terms, basic capabilities, and limitations of stochastic programming models Audience: Graduate 2. Formulate stochastic programming models Audience: Graduate 3. Implement the algorithms used to solve stochastic programming problems Audience: Graduate 4. Learn principles of decomposition algorithms for solving large-scale optimization problems Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Learn the terms, basic capabilities, and limitations of stochastic programming models",
+        "2. Formulate stochastic programming models",
+        "3. Implement the algorithms used to solve stochastic programming problems",
+        "4. Learn principles of decomposition algorithms for solving large-scale optimization problems"
+      ]
     }
   },
   {
@@ -1512,7 +1961,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2024",
-      "Learning Outcomes": "1. Apply ray and wave based light propagation models Audience: Graduate 2. Explain the process of image formation in conventional imaging systems using theory and computational models Audience: Graduate 3. Select and combine the different components required in an imaging system to perform light manipulation, collection, and image reconstruction Audience: Graduate 4. Apply the linear matrix and integral operators that model light propagation Audience: Graduate 5. Apply the linear inverse algorithms that allow an imaging system to reconstruct properties of the scene from collected data Audience: Graduate 6. Simulate different computational imaging systems and perform computation on simulated datasets Audience: Graduate 7. Understand the most common computational imaging techniques and be able to use and adapt them for their own applications Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Apply ray and wave based light propagation models",
+        "2. Explain the process of image formation in conventional imaging systems using theory and computational models",
+        "3. Select and combine the different components required in an imaging system to perform light manipulation, collection, and image reconstruction",
+        "4. Apply the linear matrix and integral operators that model light propagation",
+        "5. Apply the linear inverse algorithms that allow an imaging system to reconstruct properties of the scene from collected data",
+        "6. Simulate different computational imaging systems and perform computation on simulated datasets",
+        "7. Understand the most common computational imaging techniques and be able to use and adapt them for their own applications"
+      ]
     }
   },
   {
@@ -1527,7 +1984,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Identify basic components, such as the state space, of a dynamic program Audience: Graduate 2. Formulate and solve dynamic programs under different performance criteria such as finite horizon discounted reward/cost criteria Audience: Graduate 3. Apply dynamic programming tools and concepts in `traditional' industrial engineering applications such as supply chain, manufacturing, and healthcare Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Identify basic components, such as the state space, of a dynamic program",
+        "2. Formulate and solve dynamic programs under different performance criteria such as finite horizon discounted reward/cost criteria",
+        "3. Apply dynamic programming tools and concepts in `traditional' industrial engineering applications such as supply chain, manufacturing, and healthcare"
+      ]
     }
   },
   {
@@ -1570,7 +2031,11 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Describe and explain the basics of polyhedral theory, which consists in the study of systems of linear inequalities both from an algebraic and a geometric point of view Audience: Graduate 2. Define perfect formulations and identify what properties are desirable in an integer programming formulation of a problem Audience: Graduate 3. Explain how valid inequalities can be used as cutting planes to strengthen integer programming formulations Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Describe and explain the basics of polyhedral theory, which consists in the study of systems of linear inequalities both from an algebraic and a geometric point of view",
+        "2. Define perfect formulations and identify what properties are desirable in an integer programming formulation of a problem",
+        "3. Explain how valid inequalities can be used as cutting planes to strengthen integer programming formulations"
+      ]
     }
   },
   {
@@ -1613,7 +2078,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Describe core concepts in distributed computing, such as logical clocks, consensus, partitioning, replication and fault tolerance, etc. Audience: Graduate 2. Explain how real-world distributed systems are realized by relying on core distributed computing concepts. Audience: Graduate 3. Analyze how emerging technology trends concerning new hardware and applications, influence the designs and implementations of distributed systems. Audience: Graduate 4. Solve and develop distributed computing problems, services and applications. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Describe core concepts in distributed computing, such as logical clocks, consensus, partitioning, replication and fault tolerance, etc.",
+        "2. Explain how real-world distributed systems are realized by relying on core distributed computing concepts.",
+        "3. Analyze how emerging technology trends concerning new hardware and applications, influence the designs and implementations of distributed systems.",
+        "4. Solve and develop distributed computing problems, services and applications."
+      ]
     }
   },
   {
@@ -1740,7 +2210,16 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Identify different aspects of machine learning, including supervised learning, unsupervised learning, and reinforcement learning Audience: Graduate 2. Implement and analyze a variety of supervised models for classification and regression, including decision trees, instance-based models, naive Bayes, support vector machines, a variety of neural networks, linear and logistic regression, and others Audience: Graduate 3. Implement and analyze neural network models, starting with the perceptron, and continuing to multilayer perceptrons, convolutional neural networks, recurrent neural networks, along with deep generative models Audience: Graduate 4. Identify various types of regularization techniques and their properties Audience: Graduate 5. Implement optimization techniques used in modern machine learning, including gradient descent and stochastic gradient descent Audience: Graduate 6. Apply various concepts and metrics involved in evaluating models: accuracy, F measures, ROC, and precision/recall curves, and implement cross-validation Audience: Graduate 7. Analyze unsupervised learning techniques for clustering, dimensionality reduction, and latent models Audience: Graduate 8. Identify classical and modern techniques to improve models or deal with dearth of data: ensemble methods, semi-supervised learning, weak supervision Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Identify different aspects of machine learning, including supervised learning, unsupervised learning, and reinforcement learning",
+        "2. Implement and analyze a variety of supervised models for classification and regression, including decision trees, instance-based models, naive Bayes, support vector machines, a variety of neural networks, linear and logistic regression, and others",
+        "3. Implement and analyze neural network models, starting with the perceptron, and continuing to multilayer perceptrons, convolutional neural networks, recurrent neural networks, along with deep generative models",
+        "4. Identify various types of regularization techniques and their properties",
+        "5. Implement optimization techniques used in modern machine learning, including gradient descent and stochastic gradient descent",
+        "6. Apply various concepts and metrics involved in evaluating models: accuracy, F measures, ROC, and precision/recall curves, and implement cross-validation",
+        "7. Analyze unsupervised learning techniques for clustering, dimensionality reduction, and latent models",
+        "8. Identify classical and modern techniques to improve models or deal with dearth of data: ensemble methods, semi-supervised learning, weak supervision"
+      ]
     }
   },
   {
@@ -1755,7 +2234,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Derive and apply mathematical tools for machine learning from probability, statistics, linear algebra, and optimization Audience: Graduate 2. Perform mathematical analysis and characterization of generative and discriminative models Audience: Graduate 3. Perform mathematical analysis of machine learning algorithms Audience: Graduate 4. Perform derivation of basic machine learning error bounds and related performance analysis Audience: Graduate 5. Read and understand theoretical papers from machine learning conferences Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Derive and apply mathematical tools for machine learning from probability, statistics, linear algebra, and optimization",
+        "2. Perform mathematical analysis and characterization of generative and discriminative models",
+        "3. Perform mathematical analysis of machine learning algorithms",
+        "4. Perform derivation of basic machine learning error bounds and related performance analysis",
+        "5. Read and understand theoretical papers from machine learning conferences"
+      ]
     }
   },
   {
@@ -1770,7 +2255,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2025",
-      "Learning Outcomes": "1. Understand the key elements and methods in the design and use of deep neural networks; Audience: Graduate 2. Advance knowledge and get exposure to cutting-edge topics in AI and deep learning Audience: Graduate 3. Explore new research directions and applications of deep learning Audience: Graduate 4. Identify and participate in original research in a collaborative team Audience: Graduate 5. Search for sources of information and evaluation methods and tools relevant to the project Audience: Graduate 6. Get hands-on experience in writing software and programs using popular deep learning libraries and frameworks Audience: Graduate 7. Develop analytic and problem-solving skills using computational approaches Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Understand the key elements and methods in the design and use of deep neural networks;",
+        "2. Advance knowledge and get exposure to cutting-edge topics in AI and deep learning",
+        "3. Explore new research directions and applications of deep learning",
+        "4. Identify and participate in original research in a collaborative team",
+        "5. Search for sources of information and evaluation methods and tools relevant to the project",
+        "6. Get hands-on experience in writing software and programs using popular deep learning libraries and frameworks",
+        "7. Develop analytic and problem-solving skills using computational approaches"
+      ]
     }
   },
   {
@@ -1785,7 +2278,14 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Evaluate machine learning and AI systems from an adversarial, security and privacy mindset. Audience: Graduate 2. Identify common pitfalls and problems in ensuring security and privacy for AI. Audience: Graduate 3. Summarize the commonalities and differences between notions of security and privacy (e.g., the difference between privacy and cryptographic security). Audience: Graduate 4. Explain the strengths and limitations of candidate definitions of robustness, security, privacy, and fairness properties in AI. Audience: Graduate 5. Apply useful primitives from end-to-end trustworthiness to machine learning and AI systems. Audience: Graduate 6. Use modern tools to design attacks and implement defensive measures. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Evaluate machine learning and AI systems from an adversarial, security and privacy mindset.",
+        "2. Identify common pitfalls and problems in ensuring security and privacy for AI.",
+        "3. Summarize the commonalities and differences between notions of security and privacy (e.g., the difference between privacy and cryptographic security).",
+        "4. Explain the strengths and limitations of candidate definitions of robustness, security, privacy, and fairness properties in AI.",
+        "5. Apply useful primitives from end-to-end trustworthiness to machine learning and AI systems.",
+        "6. Use modern tools to design attacks and implement defensive measures."
+      ]
     }
   },
   {
@@ -1828,7 +2328,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Develop basic computer vision applications using a programming environment Audience: Graduate 2. Formulate computer vision research problems motivated from real-world applications Audience: Graduate 3. Evaluate and compare existing solutions to a computer vision problem Audience: Graduate 4. Design approaches for solving computer vision problems based on a broad range of fundamental concepts in 2D and 3D computer vision, sensing and recognition Audience: Graduate 5. Communicate solutions verbally and in writing to justify choices while designing solutions Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Develop basic computer vision applications using a programming environment",
+        "2. Formulate computer vision research problems motivated from real-world applications",
+        "3. Evaluate and compare existing solutions to a computer vision problem",
+        "4. Design approaches for solving computer vision problems based on a broad range of fundamental concepts in 2D and 3D computer vision, sensing and recognition",
+        "5. Communicate solutions verbally and in writing to justify choices while designing solutions"
+      ]
     }
   },
   {
@@ -1843,7 +2349,10 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Implement advanced ideas from machine learning, statistics, and computer vision for medical image analysis tasks. Audience: Graduate 2. Develop a deep technical understanding of the machine learning and statistical ideas being utilized in contemporary research in this area, and identification of blockers where research efforts can be focused Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Implement advanced ideas from machine learning, statistics, and computer vision for medical image analysis tasks.",
+        "2. Develop a deep technical understanding of the machine learning and statistical ideas being utilized in contemporary research in this area, and identification of blockers where research efforts can be focused"
+      ]
     }
   },
   {
@@ -1886,7 +2395,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Demonstrate their understanding of basic theories, current approaches, key concepts, and common practices in the area of deep learning for computer vision. Audience: Graduate 2. Recognize and distinguish among a variety of visual recognition problems in computer vision, including their problem formulations and evaluation metrics. Audience: Graduate 3. Utilize and implement deep learning models to solve visual recognition problems. Audience: Graduate 4. Design deep learning models for visual recognition problems, conduct experiments to evaluate the proposed model, and analyze and interpret the results. Audience: Graduate 5. Communicate effectively through written reports, oral presentations, and discussions. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Demonstrate their understanding of basic theories, current approaches, key concepts, and common practices in the area of deep learning for computer vision.",
+        "2. Recognize and distinguish among a variety of visual recognition problems in computer vision, including their problem formulations and evaluation metrics.",
+        "3. Utilize and implement deep learning models to solve visual recognition problems.",
+        "4. Design deep learning models for visual recognition problems, conduct experiments to evaluate the proposed model, and analyze and interpret the results.",
+        "5. Communicate effectively through written reports, oral presentations, and discussions."
+      ]
     }
   },
   {
@@ -1900,7 +2415,13 @@
         "Grad 50%": "Counts toward 50% graduate coursework requirement"
       },
       "Repeatable for Credit": "No",
-      "Learning Outcomes": "1. Apply knowledge of basic theories, current approaches, key concepts, and common practices in the area of deep learning based image synthesis and manipulation. Audience: Graduate 2. Recognize and distinguish among a variety of image and video generation problems in computer vision, including their problem formulations and evaluation metrics. Audience: Graduate 3. Utilize and implement deep learning models to solve image and video generation problems. Audience: Graduate 4. Design deep learning models for image and video generation problems, conduct experiments to evaluate the proposed models, and analyze and interpret the results Audience: Graduate 5. Communicate effectively through written reports, oral presentations, and discussions. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Apply knowledge of basic theories, current approaches, key concepts, and common practices in the area of deep learning based image synthesis and manipulation.",
+        "2. Recognize and distinguish among a variety of image and video generation problems in computer vision, including their problem formulations and evaluation metrics.",
+        "3. Utilize and implement deep learning models to solve image and video generation problems.",
+        "4. Design deep learning models for image and video generation problems, conduct experiments to evaluate the proposed models, and analyze and interpret the results",
+        "5. Communicate effectively through written reports, oral presentations, and discussions."
+      ]
     }
   },
   {
@@ -1915,7 +2436,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Identify and examine the key challenges of managing variety and veracity with large data sets. These include data acquisition, data extraction, data exploration, cleaning, matching, and merging data. Audience: Graduate 2. Summarize the variety and veracity solution approaches in academic and industry. Audience: Graduate 3. Design and apply course concepts to experiential learning through a research project. Audience: Graduate 4. Effectively communicate through written reports, oral presentations, and discussions. Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Identify and examine the key challenges of managing variety and veracity with large data sets. These include data acquisition, data extraction, data exploration, cleaning, matching, and merging data.",
+        "2. Summarize the variety and veracity solution approaches in academic and industry.",
+        "3. Design and apply course concepts to experiential learning through a research project.",
+        "4. Effectively communicate through written reports, oral presentations, and discussions."
+      ]
     }
   },
   {
@@ -1930,7 +2456,13 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Recognize problems in molecular biology that are appropriate for network modeling Audience: Graduate 2. Identify appropriate network algorithms for different tasks Audience: Graduate 3. Evaluate the strengths and weaknesses of different network algorithms designed for a specific biological problem Audience: Graduate 4. Gain practical experience in applying a select set of network algorithms on real data and evaluate its outputs Audience: Graduate 5. Understand the algorithmic and statistical concepts of different network-based approaches Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Recognize problems in molecular biology that are appropriate for network modeling",
+        "2. Identify appropriate network algorithms for different tasks",
+        "3. Evaluate the strengths and weaknesses of different network algorithms designed for a specific biological problem",
+        "4. Gain practical experience in applying a select set of network algorithms on real data and evaluate its outputs",
+        "5. Understand the algorithmic and statistical concepts of different network-based approaches"
+      ]
     }
   },
   {
@@ -1945,7 +2477,12 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Spring 2026",
-      "Learning Outcomes": "1. Select and implement appropriate algorithms and probabilistic models for analyzing genomes, RNA, proteins, and biological networks Audience: Graduate 2. Write a manuscript describing a bioinformatics research study, including the motivation for the research, the scientific outcomes, and the detailed methods required to reproduce the study Audience: Graduate 3. Read a bioinformatics research paper to identify the key computational techniques and assess the evidence supporting the paper's claims Audience: Graduate 4. Identify emerging biological data types and data processing (e.g., single cell biology) and how the data can contribute to their research Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Select and implement appropriate algorithms and probabilistic models for analyzing genomes, RNA, proteins, and biological networks",
+        "2. Write a manuscript describing a bioinformatics research study, including the motivation for the research, the scientific outcomes, and the detailed methods required to reproduce the study",
+        "3. Read a bioinformatics research paper to identify the key computational techniques and assess the evidence supporting the paper's claims",
+        "4. Identify emerging biological data types and data processing (e.g., single cell biology) and how the data can contribute to their research"
+      ]
     }
   },
   {
@@ -1960,7 +2497,15 @@
       },
       "Repeatable for Credit": "No",
       "Last Taught": "Fall 2025",
-      "Learning Outcomes": "1. Identify contemporary research problems related to the security and privacy of modern computer systems Audience: Graduate 2. Implement known security attacks to identify weaknesses that led to those attacks and evaluate defense strategies Audience: Graduate 3. Differentiate among the different dimensions involved in protecting users’ security and privacy as they relate to effectiveness, practicality, and usability Audience: Graduate 4. Analyze, interpret, and critique research papers from top-tier security conferences by identifying their strengths and weaknesses Audience: Graduate 5. Propose original research by defining a problem, outlining a plan, performing the original research, and designing, implementing, and evaluating the proposed solution Audience: Graduate 6. Work effectively in teams to complete a research project Audience: Graduate 7. Communicate effectively through written reports, oral presentations, and discussion Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Identify contemporary research problems related to the security and privacy of modern computer systems",
+        "2. Implement known security attacks to identify weaknesses that led to those attacks and evaluate defense strategies",
+        "3. Differentiate among the different dimensions involved in protecting users’ security and privacy as they relate to effectiveness, practicality, and usability",
+        "4. Analyze, interpret, and critique research papers from top-tier security conferences by identifying their strengths and weaknesses",
+        "5. Propose original research by defining a problem, outlining a plan, performing the original research, and designing, implementing, and evaluating the proposed solution",
+        "6. Work effectively in teams to complete a research project",
+        "7. Communicate effectively through written reports, oral presentations, and discussion"
+      ]
     }
   },
   {
@@ -2143,7 +2688,10 @@
       },
       "Repeatable for Credit": "Yes, unlimited number of completions",
       "Last Taught": "Fall 2026",
-      "Learning Outcomes": "1. Discuss how methods from computer science, statistics, information science and engineering are applied to problems in biology, medicine and population health Audience: Graduate 2. Recognize and be able to define applications in translational bioinformatics, clinical informatics and public health informatics Audience: Graduate"
+      "Learning Outcomes": [
+        "1. Discuss how methods from computer science, statistics, information science and engineering are applied to problems in biology, medicine and population health",
+        "2. Recognize and be able to define applications in translational bioinformatics, clinical informatics and public health informatics"
+      ]
     }
   },
   {

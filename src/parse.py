@@ -29,6 +29,14 @@ def parse_designation(el):
     return result
 
 
+def parse_outcomes(el):
+    outcomes = []
+    for line in get_lines(el):
+        if not line.startswith("Audience:"):
+            outcomes.append(line)
+    return outcomes
+
+
 def parse_block(block):
     code = clean(block.select_one("span.courseblockcode").get_text())
 
@@ -48,6 +56,8 @@ def parse_block(block):
         data_el = label_el.find_next("span", class_="cbextra-data")
         if label == "Course Designation":
             extras[label] = parse_designation(data_el)
+        elif label == "Learning Outcomes":
+            extras[label] = parse_outcomes(data_el)
         else:
             extras[label] = clean(data_el.get_text(" "))
 
