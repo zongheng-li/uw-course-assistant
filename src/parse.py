@@ -8,6 +8,15 @@ def clean(text):
 
 
 
+def fix_spacing(text):
+    text = text.replace("( ", "(")
+    text = text.replace(" )", ")")
+    text = text.replace(" ,", ",")
+    text = text.replace(" .", ".")
+    return text
+
+
+
 def get_lines(el):
     lines = []
     for line in el.get_text("\n").split("\n"):
@@ -48,8 +57,8 @@ def parse_block(block):
     credits = clean(credits_el.get_text())
 
     desc_el = block.select_one("p.courseblockdesc")
-    description = clean(desc_el.get_text(" "))
-
+    description = fix_spacing(clean(desc_el.get_text(" ")))
+    
     extras = {}
     for label_el in block.select("span.cbextra-label"):
         label = clean(label_el.get_text()).rstrip(":")
@@ -59,7 +68,7 @@ def parse_block(block):
         elif label == "Learning Outcomes":
             extras[label] = parse_outcomes(data_el)
         else:
-            extras[label] = clean(data_el.get_text(" "))
+            extras[label] = fix_spacing(clean(data_el.get_text(" ")))
 
     return {
         "code": code,
@@ -105,3 +114,20 @@ for course in courses:
     for category in course["extras"].get("Course Designation", {}):
         categories.add(category)
 print("Designation categories:", sorted(categories))
+
+
+def has_spacing_issue(text):
+    return "( " in text or " )" in text or " ," in text or " ." in text
+
+
+req_issues = 0
+desc_issues = 0
+for course in courses:
+    if has_spacing_issue(course["extras"].get("Requisites", "")):
+        req_issues += 1
+    if has_spacing_issue(course["description"]):
+        desc_issues += 1
+print(f"Spacing issues: Requisites {req_issues}, Descriptions {desc_issues}")
+
+
+
