@@ -7,6 +7,28 @@ def clean(text):
     return " ".join(text.split())
 
 
+
+def get_lines(el):
+    lines = []
+    for line in el.get_text("\n").split("\n"):
+        line = clean(line)
+        if line:
+            lines.append(line)
+    return lines
+
+
+def parse_designation(el):
+    result = {}
+    for line in get_lines(el):
+        line = line.replace("–", "-").replace("—", "-")
+        if " - " in line:
+            category, value = line.split(" - ", 1)
+            result[category] = value
+        else:
+            result[line] = ""
+    return result
+
+
 def parse_block(block):
     code = clean(block.select_one("span.courseblockcode").get_text())
 
@@ -24,7 +46,10 @@ def parse_block(block):
     for label_el in block.select("span.cbextra-label"):
         label = clean(label_el.get_text()).rstrip(":")
         data_el = label_el.find_next("span", class_="cbextra-data")
-        extras[label] = clean(data_el.get_text(" "))
+        if label == "Course Designation":
+            extras[label] = parse_designation(data_el)
+        else:
+            extras[label] = clean(data_el.get_text(" "))
 
     return {
         "code": code,
@@ -65,3 +90,8 @@ print("All extra fields:", sorted(labels))
 
 
 
+categories = set()
+for course in courses:
+    for category in course["extras"].get("Course Designation", {}):
+        categories.add(category)
+print("Designation categories:", sorted(categories))
