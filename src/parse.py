@@ -40,8 +40,28 @@ soup = BeautifulSoup(html, "html.parser")
 blocks = soup.select("div.courseblock")
 print(f"Found {len(blocks)} courses")
 
+
+
+courses = []
 for block in blocks:
-    course = parse_block(block)
-    if course["code"] == "COMP SCI 540":
-        print(json.dumps(course, indent=2, ensure_ascii=False))
-        break
+    courses.append(parse_block(block))
+
+out_path = Path("data/courses.json")
+out_path.write_text(json.dumps(courses, indent=2, ensure_ascii=False), encoding="utf-8")
+print(f"Saved {len(courses)} courses to {out_path}")
+
+with_req = 0
+for course in courses:
+    req = course["extras"].get("Requisites", "None")
+    if req != "None":
+        with_req += 1
+print(f"Courses with real prerequisites: {with_req}")
+
+labels = set()
+for course in courses:
+    for label in course["extras"]:
+        labels.add(label)
+print("All extra fields:", sorted(labels))
+
+
+
